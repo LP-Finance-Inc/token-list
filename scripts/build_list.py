@@ -17,9 +17,11 @@ def build_list():
     """
     JUP_VALIDATED_TOKENS_URI = "https://raw.githubusercontent.com/jup-ag/token-list/main/validated-tokens.csv"
 
-    response = requests.get(JUP_VALIDATED_TOKENS_URI).text
+    response = requests.get(JUP_VALIDATED_TOKENS_URI)
+    
+    assert response.status_code == 200
 
-    token_list_csv = pd.read_csv(StringIO(response))
+    token_list_csv = pd.read_csv(StringIO(response.text))
 
     name_array = token_list_csv["Name"].tolist()
     symbol_array = token_list_csv["Symbol"].tolist()

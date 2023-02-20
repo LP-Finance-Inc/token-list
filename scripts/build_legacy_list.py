@@ -21,9 +21,11 @@ def build_legacy_list():
     """
     JUP_VALIDATED_TOKENS_URI = "https://raw.githubusercontent.com/jup-ag/token-list/main/validated-tokens.csv"
 
-    response = requests.get(JUP_VALIDATED_TOKENS_URI).text
+    response = requests.get(JUP_VALIDATED_TOKENS_URI)
 
-    token_list_csv = pd.read_csv(StringIO(response))
+    assert response.status_code == 200
+
+    token_list_csv = pd.read_csv(StringIO(response.text))
 
     name_array = token_list_csv["Name"].tolist()
     symbol_array = token_list_csv["Symbol"].tolist()
@@ -41,10 +43,10 @@ def build_legacy_list():
                 "decimals": decimals_array[i],
                 "logoURI": logo_array[i]
             }
+            for i in range(len(name_array))
         ]
-        for i in range(len(name_array))
     }
 
     with open("./legacy-token-list.json", "w") as file:
-
         json.dump(token_list_json, file, indent=4)
+
