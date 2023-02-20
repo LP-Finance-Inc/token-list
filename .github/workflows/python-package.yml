@@ -25,4 +25,7 @@ jobs:
         run: pip install -r requirements.txt
         
       - name: Update token list
-        run: python3 main.py
+        run: python3 scripts/build_list.py
+      
+      - name: Update legacy token list
+        run: python3 scripts/build_legacy_list.py
