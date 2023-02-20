@@ -31,3 +31,8 @@ Format
     }
 }
 ```
+## Endpoints
+### Legacy Token List
+[https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/legacy-token-list.json](https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/legacy-token-list.json)
+### Token List
+[https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/token-list.json](https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/token-list.json)
