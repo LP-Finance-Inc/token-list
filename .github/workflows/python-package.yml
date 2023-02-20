@@ -13,12 +13,12 @@ jobs:
     
     steps:
       - name: Check repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         
       - name: Setup python
-        uses: actions/setup-python3@v4.5.0
+        uses: actions/setup-python3@v4
         with:
-          python-version: 3.11.1
+          python-version: 3.11
         
       - name: Install requirements
         run: pip install -r requirements.txt
