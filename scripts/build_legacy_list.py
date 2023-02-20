@@ -49,4 +49,5 @@ def build_legacy_list():
 
     with open("./legacy-token-list.json", "w") as file:
         json.dump(token_list_json, file, indent=4)
+    return True
 

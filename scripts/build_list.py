@@ -42,3 +42,4 @@ def build_list():
     with open("./token-list.json", "w") as file:
 
         json.dump(token_list_json, file, indent=4)
+    return True
