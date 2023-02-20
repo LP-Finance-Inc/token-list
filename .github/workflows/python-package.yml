@@ -29,3 +29,10 @@ jobs:
       
       - name: Update legacy token list
         run: python3 scripts/build_legacy_list.py
+
+      - name: Commit changed file
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: "."
+          commit: --signoff
+          push: true
