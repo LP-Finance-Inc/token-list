@@ -21,6 +21,28 @@ Format
     ]
 }
 ```
+
+## Solana Legacy Token List (Use this if migrating!)
+[`legacy-token-list.json`](https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/legacy-token-list.json) uses the data from Jupiter Aggregator token list and reformats to `solana-labs/token-list` structure. 
+
+This token list concatenates data from `solana-labs/token-list` and `jup-ag/token-list`. If duplicated, it uses source from Jupiter token list.
+
+Format
+```
+{
+    "tokens": [
+        {
+            "chainId": 101, 
+            "address": TOKEN_MINT,
+            "symbol": SYMBOL,
+            "name": NAME,
+            "decimals": DECIMALS,
+            "logoURI": LOGO_URI,
+        },
+    ]
+}
+```
+
 ## Token List
 Format
 ```
@@ -36,5 +58,9 @@ Format
 ## Endpoints
 ### Legacy Token List
 [https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/legacy-token-list.json](https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/legacy-token-list.json)
+
+### Solana Legacy Token List
+[https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/solana-legacy-token-list.json](https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/solana-legacy-token-list.json)
+
 ### Token List
 [https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/token-list.json](https://raw.githubusercontent.com/LP-Finance-Inc/token-list/main/token-list.json)
