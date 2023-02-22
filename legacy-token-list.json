@@ -2614,7 +2614,7 @@
             "symbol": "SHDW",
             "name": "Shadow Token",
             "decimals": 9,
-            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y/logo.png"
+            "logoURI": "https://shdw-drive.genesysgo.net/FDcC9gn12fFkSU2KuQYH4TUjihrZxiTodFRWNF4ns9Kt/250x250_with_padding.png"
         },
         {
             "chainId": 101,
@@ -5282,6 +5282,14 @@
         },
         {
             "chainId": 101,
+            "address": "isktkk27QaTpoRUhwwS5n9YUoYf8ydCuoTz5R2tFEKu",
+            "symbol": "ISKT",
+            "name": "Rafkr\u00f3na",
+            "decimals": 2,
+            "logoURI": "https://raw.githubusercontent.com/rafmyntasjodur/iskt-metadata/main/logo.png"
+        },
+        {
+            "chainId": 101,
             "address": "PhiLR4JDZB9z92rYT5xBXKCxmq4pGB1LYjtybii7aiS",
             "symbol": "POVT",
             "name": "Phil Overdrive | Youtube",
@@ -5351,6 +5359,22 @@
             "name": "Klausen Art",
             "decimals": 6,
             "logoURI": "https://arweave.net/X9ohmd49MmOEYi4dfMyOv_M24NnnyzQXZEoALTuQ0ao"
+        },
+        {
+            "chainId": 101,
+            "address": "31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk",
+            "symbol": "GP",
+            "name": "Graphite",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/ALLzymnuIihFPhoNUJpPxQzbGI8LodXKhNzXzbRMPbA"
+        },
+        {
+            "chainId": 101,
+            "address": "B5Fvzd2RL5ctrmFsvDafXiNGbBqbxapiryJo8JfoSEcA",
+            "symbol": "KITTI",
+            "name": "KITTI TOKEN",
+            "decimals": 5,
+            "logoURI": "https://arweave.net/I1RzcnSel2oghDkMBE-lZBV9b6AuyDJc0Ywo6QmDlSQ"
         }
     ]
 }

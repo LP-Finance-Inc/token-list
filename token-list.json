@@ -1959,7 +1959,7 @@
         "name": "Shadow Token",
         "symbol": "SHDW",
         "decimals": 9,
-        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y/logo.png"
+        "logo": "https://shdw-drive.genesysgo.net/FDcC9gn12fFkSU2KuQYH4TUjihrZxiTodFRWNF4ns9Kt/250x250_with_padding.png"
     },
     "3KTkQJEMJXP741EJBFcAS34Lx9t8GsBYaW2BUUWkeyDH": {
         "name": "Castle Coin",
@@ -3959,6 +3959,12 @@
         "decimals": 8,
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png"
     },
+    "isktkk27QaTpoRUhwwS5n9YUoYf8ydCuoTz5R2tFEKu": {
+        "name": "Rafkr\u00f3na",
+        "symbol": "ISKT",
+        "decimals": 2,
+        "logo": "https://raw.githubusercontent.com/rafmyntasjodur/iskt-metadata/main/logo.png"
+    },
     "PhiLR4JDZB9z92rYT5xBXKCxmq4pGB1LYjtybii7aiS": {
         "name": "Phil Overdrive | Youtube",
         "symbol": "POVT",
@@ -4012,5 +4018,17 @@
         "symbol": "KART",
         "decimals": 6,
         "logo": "https://arweave.net/X9ohmd49MmOEYi4dfMyOv_M24NnnyzQXZEoALTuQ0ao"
+    },
+    "31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk": {
+        "name": "Graphite",
+        "symbol": "GP",
+        "decimals": 9,
+        "logo": "https://arweave.net/ALLzymnuIihFPhoNUJpPxQzbGI8LodXKhNzXzbRMPbA"
+    },
+    "B5Fvzd2RL5ctrmFsvDafXiNGbBqbxapiryJo8JfoSEcA": {
+        "name": "KITTI TOKEN",
+        "symbol": "KITTI",
+        "decimals": 5,
+        "logo": "https://arweave.net/I1RzcnSel2oghDkMBE-lZBV9b6AuyDJc0Ywo6QmDlSQ"
     }
 }
