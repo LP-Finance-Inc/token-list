@@ -5362,6 +5362,14 @@
         },
         {
             "chainId": 101,
+            "address": "dab15vg2k8zGJPy4xM2DH2G2BY3khrqduXapzYAV3y8",
+            "symbol": "dabloons",
+            "name": "dabloons",
+            "decimals": 8,
+            "logoURI": "https://arweave.net/AYbNmLsPhYrlgrVtCERbp7UysLGL-IXQQrTL826ai6Y"
+        },
+        {
+            "chainId": 101,
             "address": "31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk",
             "symbol": "GP",
             "name": "Graphite",

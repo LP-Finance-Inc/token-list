@@ -4019,6 +4019,12 @@
         "decimals": 6,
         "logo": "https://arweave.net/X9ohmd49MmOEYi4dfMyOv_M24NnnyzQXZEoALTuQ0ao"
     },
+    "dab15vg2k8zGJPy4xM2DH2G2BY3khrqduXapzYAV3y8": {
+        "name": "dabloons",
+        "symbol": "dabloons",
+        "decimals": 8,
+        "logo": "https://arweave.net/AYbNmLsPhYrlgrVtCERbp7UysLGL-IXQQrTL826ai6Y"
+    },
     "31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk": {
         "name": "Graphite",
         "symbol": "GP",
