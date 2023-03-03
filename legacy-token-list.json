@@ -5383,6 +5383,14 @@
             "name": "KITTI TOKEN",
             "decimals": 5,
             "logoURI": "https://arweave.net/I1RzcnSel2oghDkMBE-lZBV9b6AuyDJc0Ywo6QmDlSQ"
+        },
+        {
+            "chainId": 101,
+            "address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+            "symbol": "cgntSOL",
+            "name": "Cogent SOL",
+            "decimals": 9,
+            "logoURI": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
         }
     ]
 }

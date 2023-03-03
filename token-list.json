@@ -4036,5 +4036,11 @@
         "symbol": "KITTI",
         "decimals": 5,
         "logo": "https://arweave.net/I1RzcnSel2oghDkMBE-lZBV9b6AuyDJc0Ywo6QmDlSQ"
+    },
+    "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE": {
+        "name": "Cogent SOL",
+        "symbol": "cgntSOL",
+        "decimals": 9,
+        "logo": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
     }
 }
