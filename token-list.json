@@ -4037,6 +4037,24 @@
         "decimals": 5,
         "logo": "https://arweave.net/I1RzcnSel2oghDkMBE-lZBV9b6AuyDJc0Ywo6QmDlSQ"
     },
+    "DUALa4FC2yREwZ59PHeu1un4wis36vHRv5hWVBmzykCJ": {
+        "name": "Dual DAO Token",
+        "symbol": "DUAL",
+        "decimals": 6,
+        "logo": "https://www.dual.finance/images/token-logos/dual.png"
+    },
+    "FMG9mNVazePvGtAY1WESUmY9j3LvhVzmkQsaucwRy8EB": {
+        "name": "Cattoshi",
+        "symbol": "COSHI",
+        "decimals": 6,
+        "logo": "https://arweave.net/k5GPPYbAhUhJBc36Cjk_iVqhQfA63Kn01A3TMv65P04"
+    },
+    "8wbKU77rWVmpfejfXxGVo5H47fyRQHkpWxZnqUT1Vjd3": {
+        "name": "$BAGS",
+        "symbol": "$BAGS",
+        "decimals": 3,
+        "logo": "https://shdw-drive.genesysgo.net/DzX4XevSiYbmXH9GDQZPVKdEMXiDprvMYBt7LbZ31XhH/image.png"
+    },
     "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE": {
         "name": "Cogent SOL",
         "symbol": "cgntSOL",
