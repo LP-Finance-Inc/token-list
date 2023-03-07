@@ -4037,6 +4037,18 @@
         "decimals": 5,
         "logo": "https://arweave.net/I1RzcnSel2oghDkMBE-lZBV9b6AuyDJc0Ywo6QmDlSQ"
     },
+    "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE": {
+        "name": "Cogent SOL",
+        "symbol": "cgntSOL",
+        "decimals": 9,
+        "logo": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
+    },
+    "HDVR9Edy2o8uRdf5xFUDSGVLo556UjAaNR9BrwZ8QeMJ": {
+        "name": "Flowers",
+        "symbol": "FLWR",
+        "decimals": 9,
+        "logo": "https://arweave.net/3brG4EGxdYt30nQMI-T_wkaOXl0xJQfcERzNFJpzTV0"
+    },
     "DUALa4FC2yREwZ59PHeu1un4wis36vHRv5hWVBmzykCJ": {
         "name": "Dual DAO Token",
         "symbol": "DUAL",
@@ -4054,11 +4066,5 @@
         "symbol": "$BAGS",
         "decimals": 3,
         "logo": "https://shdw-drive.genesysgo.net/DzX4XevSiYbmXH9GDQZPVKdEMXiDprvMYBt7LbZ31XhH/image.png"
-    },
-    "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE": {
-        "name": "Cogent SOL",
-        "symbol": "cgntSOL",
-        "decimals": 9,
-        "logo": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
     }
 }

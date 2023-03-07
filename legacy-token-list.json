@@ -5386,6 +5386,22 @@
         },
         {
             "chainId": 101,
+            "address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+            "symbol": "cgntSOL",
+            "name": "Cogent SOL",
+            "decimals": 9,
+            "logoURI": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
+        },
+        {
+            "chainId": 101,
+            "address": "HDVR9Edy2o8uRdf5xFUDSGVLo556UjAaNR9BrwZ8QeMJ",
+            "symbol": "FLWR",
+            "name": "Flowers",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/3brG4EGxdYt30nQMI-T_wkaOXl0xJQfcERzNFJpzTV0"
+        },
+        {
+            "chainId": 101,
             "address": "DUALa4FC2yREwZ59PHeu1un4wis36vHRv5hWVBmzykCJ",
             "symbol": "DUAL",
             "name": "Dual DAO Token",
