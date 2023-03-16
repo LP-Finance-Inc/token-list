@@ -5431,6 +5431,14 @@
             "name": "Cogent SOL",
             "decimals": 9,
             "logoURI": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
+        },
+        {
+            "chainId": 101,
+            "address": "9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU",
+            "symbol": "BEAR",
+            "name": "BEAR",
+            "decimals": 0,
+            "logoURI": "https://nova-host.nyc3.cdn.digitaloceanspaces.com/spl_tokens/9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU.jpeg"
         }
     ]
 }

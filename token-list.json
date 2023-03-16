@@ -4066,5 +4066,11 @@
         "symbol": "$BAGS",
         "decimals": 3,
         "logo": "https://shdw-drive.genesysgo.net/DzX4XevSiYbmXH9GDQZPVKdEMXiDprvMYBt7LbZ31XhH/image.png"
+    },
+    "9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU": {
+        "name": "BEAR",
+        "symbol": "BEAR",
+        "decimals": 0,
+        "logo": "https://nova-host.nyc3.cdn.digitaloceanspaces.com/spl_tokens/9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU.jpeg"
     }
 }
