@@ -5434,6 +5434,14 @@
         },
         {
             "chainId": 101,
+            "address": "AgnHzGspNu7F3nFM4izuPt5g7m1URjVaTaFNgvqSXcjC",
+            "symbol": "NCTR",
+            "name": "Nectar",
+            "decimals": 9,
+            "logoURI": "https://www.arweave.net/8imTwET4YerNLKAL8nEmI6ONDlMXBHZ96YC7TeFTI1s?ext=png"
+        },
+        {
+            "chainId": 101,
             "address": "9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU",
             "symbol": "BEAR",
             "name": "BEAR",
