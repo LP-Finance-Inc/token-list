@@ -4210,5 +4210,11 @@
         "symbol": "BEAR",
         "decimals": 0,
         "logo": "https://nova-host.nyc3.cdn.digitaloceanspaces.com/spl_tokens/9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU.jpeg"
+    },
+    "8LH3QMo7xkMJx85Kg4pfiQY1g1ZgiVEe1KktSpaT89mP": {
+        "name": "Arbitrum (Portal from Arbitrum)",
+        "symbol": "ARB",
+        "decimals": 8,
+        "logo": "https://assets.coingecko.com/coins/images/16547/small/arbitrium.png?1624418103"
     }
 }

@@ -5623,6 +5623,14 @@
             "name": "BEAR",
             "decimals": 0,
             "logoURI": "https://nova-host.nyc3.cdn.digitaloceanspaces.com/spl_tokens/9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU.jpeg"
+        },
+        {
+            "chainId": 101,
+            "address": "8LH3QMo7xkMJx85Kg4pfiQY1g1ZgiVEe1KktSpaT89mP",
+            "symbol": "ARB",
+            "name": "Arbitrum (Portal from Arbitrum)",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/16547/small/arbitrium.png?1624418103"
         }
     ]
 }
