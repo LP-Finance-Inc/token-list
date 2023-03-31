@@ -5626,6 +5626,14 @@
         },
         {
             "chainId": 101,
+            "address": "3acxNNmfdKKZj9i35P4VDBFm74Ufdt8ojKWceVGynwC5",
+            "symbol": "GM",
+            "name": "GM",
+            "decimals": 4,
+            "logoURI": "https://arweave.net/jhNqKLDDC2ZtanzmFt-OZZJLFEYRpzus3rzhl7MGiOU"
+        },
+        {
+            "chainId": 101,
             "address": "8LH3QMo7xkMJx85Kg4pfiQY1g1ZgiVEe1KktSpaT89mP",
             "symbol": "ARB",
             "name": "Arbitrum (Portal from Arbitrum)",
