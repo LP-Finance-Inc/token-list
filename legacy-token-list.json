@@ -5639,6 +5639,22 @@
             "name": "Arbitrum (Portal from Arbitrum)",
             "decimals": 8,
             "logoURI": "https://assets.coingecko.com/coins/images/16547/small/arbitrium.png?1624418103"
+        },
+        {
+            "chainId": 101,
+            "address": "3zE4Qmh9hrC4inHynT3aSRzHcWhnxPCHLeN9WWqvoRVz",
+            "symbol": "RRR",
+            "name": "Race Raiders Rewards",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/SH106hrChudKjQ_c6e6yd0tsGUbFIScv2LL6Dp-LDiI"
+        },
+        {
+            "chainId": 101,
+            "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+            "symbol": "MDS",
+            "name": "Midas",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw"
         }
     ]
 }
