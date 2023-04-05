@@ -4211,17 +4211,23 @@
         "decimals": 0,
         "logo": "https://nova-host.nyc3.cdn.digitaloceanspaces.com/spl_tokens/9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU.jpeg"
     },
-    "3acxNNmfdKKZj9i35P4VDBFm74Ufdt8ojKWceVGynwC5": {
-        "name": "GM",
-        "symbol": "GM",
-        "decimals": 4,
-        "logo": "https://arweave.net/jhNqKLDDC2ZtanzmFt-OZZJLFEYRpzus3rzhl7MGiOU"
-    },
     "8LH3QMo7xkMJx85Kg4pfiQY1g1ZgiVEe1KktSpaT89mP": {
         "name": "Arbitrum (Portal from Arbitrum)",
         "symbol": "ARB",
         "decimals": 8,
         "logo": "https://assets.coingecko.com/coins/images/16547/small/arbitrium.png?1624418103"
+    },
+    "5HsZR8eG7QpQcN8Mnp8oFdENRkJMP9ZkcKhPSCKTJSWh": {
+        "name": "Moon Roll Coin",
+        "symbol": "MRC",
+        "decimals": 9,
+        "logo": "https://moonroll-bucket.s3.amazonaws.com/token-image/Frame.png"
+    },
+    "3acxNNmfdKKZj9i35P4VDBFm74Ufdt8ojKWceVGynwC5": {
+        "name": "GM",
+        "symbol": "GM",
+        "decimals": 4,
+        "logo": "https://arweave.net/jhNqKLDDC2ZtanzmFt-OZZJLFEYRpzus3rzhl7MGiOU"
     },
     "3zE4Qmh9hrC4inHynT3aSRzHcWhnxPCHLeN9WWqvoRVz": {
         "name": "Race Raiders Rewards",

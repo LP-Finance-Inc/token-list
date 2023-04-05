@@ -5626,6 +5626,22 @@
         },
         {
             "chainId": 101,
+            "address": "8LH3QMo7xkMJx85Kg4pfiQY1g1ZgiVEe1KktSpaT89mP",
+            "symbol": "ARB",
+            "name": "Arbitrum (Portal from Arbitrum)",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/16547/small/arbitrium.png?1624418103"
+        },
+        {
+            "chainId": 101,
+            "address": "5HsZR8eG7QpQcN8Mnp8oFdENRkJMP9ZkcKhPSCKTJSWh",
+            "symbol": "MRC",
+            "name": "Moon Roll Coin",
+            "decimals": 9,
+            "logoURI": "https://moonroll-bucket.s3.amazonaws.com/token-image/Frame.png"
+        },
+        {
+            "chainId": 101,
             "address": "3acxNNmfdKKZj9i35P4VDBFm74Ufdt8ojKWceVGynwC5",
             "symbol": "GM",
             "name": "GM",
