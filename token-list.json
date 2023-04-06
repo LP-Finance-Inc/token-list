@@ -4229,6 +4229,12 @@
         "decimals": 4,
         "logo": "https://arweave.net/jhNqKLDDC2ZtanzmFt-OZZJLFEYRpzus3rzhl7MGiOU"
     },
+    "CCRJohp9bfQdhZCvCe7MzUQuXMJkKBi4XCjUq3A2YqN8": {
+        "name": "BOOP",
+        "symbol": "BOOP",
+        "decimals": 10,
+        "logo": "https://arweave.net/2ArDrNlyF34gjZ7UdXmMVl_ET9igdcyDiAY-VFsw3ao"
+    },
     "3zE4Qmh9hrC4inHynT3aSRzHcWhnxPCHLeN9WWqvoRVz": {
         "name": "Race Raiders Rewards",
         "symbol": "RRR",

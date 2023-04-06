@@ -5658,6 +5658,14 @@
         },
         {
             "chainId": 101,
+            "address": "CCRJohp9bfQdhZCvCe7MzUQuXMJkKBi4XCjUq3A2YqN8",
+            "symbol": "BOOP",
+            "name": "BOOP",
+            "decimals": 10,
+            "logoURI": "https://arweave.net/2ArDrNlyF34gjZ7UdXmMVl_ET9igdcyDiAY-VFsw3ao"
+        },
+        {
+            "chainId": 101,
             "address": "3zE4Qmh9hrC4inHynT3aSRzHcWhnxPCHLeN9WWqvoRVz",
             "symbol": "RRR",
             "name": "Race Raiders Rewards",
