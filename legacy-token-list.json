@@ -5679,6 +5679,14 @@
             "name": "Midas",
             "decimals": 9,
             "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw"
+        },
+        {
+            "chainId": 101,
+            "address": "ATX1pK34GgPtKJLaXvGHQqu5DKkoJnmZBbwCxvmq3Y3h",
+            "symbol": "ATX",
+            "name": "Atellix",
+            "decimals": 6,
+            "logoURI": "https://media.atellix.net/token/atx.png"
         }
     ]
 }
