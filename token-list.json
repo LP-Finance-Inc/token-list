@@ -4247,6 +4247,12 @@
         "decimals": 9,
         "logo": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw"
     },
+    "6eQ5a1qhn1v7Q8h7zYHZrfgeAKrVgN7RJgty3ttth6R7": {
+        "name": "Hyper Coin",
+        "symbol": "HC",
+        "decimals": 4,
+        "logo": "https://bafkreigwterpxjrdsavfxduhffbkgshm6r4z2d76kpj6vti5m76qzl7xxq.ipfs.dweb.link"
+    },
     "ATX1pK34GgPtKJLaXvGHQqu5DKkoJnmZBbwCxvmq3Y3h": {
         "name": "Atellix",
         "symbol": "ATX",

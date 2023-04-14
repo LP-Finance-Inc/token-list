@@ -5682,6 +5682,14 @@
         },
         {
             "chainId": 101,
+            "address": "6eQ5a1qhn1v7Q8h7zYHZrfgeAKrVgN7RJgty3ttth6R7",
+            "symbol": "HC",
+            "name": "Hyper Coin",
+            "decimals": 4,
+            "logoURI": "https://bafkreigwterpxjrdsavfxduhffbkgshm6r4z2d76kpj6vti5m76qzl7xxq.ipfs.dweb.link"
+        },
+        {
+            "chainId": 101,
             "address": "ATX1pK34GgPtKJLaXvGHQqu5DKkoJnmZBbwCxvmq3Y3h",
             "symbol": "ATX",
             "name": "Atellix",
