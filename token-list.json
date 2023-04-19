@@ -4258,5 +4258,23 @@
         "symbol": "ATX",
         "decimals": 6,
         "logo": "https://media.atellix.net/token/atx.png"
+    },
+    "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux": {
+        "name": "Helium Network Token",
+        "symbol": "HNT",
+        "decimals": 8,
+        "logo": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/hnt.png"
+    },
+    "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6": {
+        "name": "Helium Mobile",
+        "symbol": "MOBILE",
+        "decimals": 6,
+        "logo": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/mobile.png"
+    },
+    "iotEVVZLEywoTn1QdwNPddxPWszn3zFhEot3MfL9fns": {
+        "name": "Helium IOT",
+        "symbol": "IOT",
+        "decimals": 6,
+        "logo": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/iot.png"
     }
 }

@@ -5695,6 +5695,30 @@
             "name": "Atellix",
             "decimals": 6,
             "logoURI": "https://media.atellix.net/token/atx.png"
+        },
+        {
+            "chainId": 101,
+            "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+            "symbol": "HNT",
+            "name": "Helium Network Token",
+            "decimals": 8,
+            "logoURI": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/hnt.png"
+        },
+        {
+            "chainId": 101,
+            "address": "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6",
+            "symbol": "MOBILE",
+            "name": "Helium Mobile",
+            "decimals": 6,
+            "logoURI": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/mobile.png"
+        },
+        {
+            "chainId": 101,
+            "address": "iotEVVZLEywoTn1QdwNPddxPWszn3zFhEot3MfL9fns",
+            "symbol": "IOT",
+            "name": "Helium IOT",
+            "decimals": 6,
+            "logoURI": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/iot.png"
         }
     ]
 }
