@@ -1959,7 +1959,7 @@
         "name": "Shadow Token",
         "symbol": "SHDW",
         "decimals": 9,
-        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y/logo.png"
+        "logo": "https://shdw-drive.genesysgo.net/FDcC9gn12fFkSU2KuQYH4TUjihrZxiTodFRWNF4ns9Kt/250x250_with_padding.png"
     },
     "3KTkQJEMJXP741EJBFcAS34Lx9t8GsBYaW2BUUWkeyDH": {
         "name": "Castle Coin",
@@ -3623,6 +3623,138 @@
         "decimals": 3,
         "logo": "https://firebasestorage.googleapis.com/v0/b/mom-prod-625e5.appspot.com/o/TokensNoBG%2FDusk_Coin_INV.png?alt=media&token=66709e38-8d35-40b0-8c0d-9499372f421f"
     },
+    "xStpgUCss9piqeFUk2iLVcvJEGhAdJxJQuwLkXP555G": {
+        "name": "Staked Step",
+        "symbol": "xSTEP",
+        "decimals": 9,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xStpgUCss9piqeFUk2iLVcvJEGhAdJxJQuwLkXP555G/logo.svg"
+    },
+    "HEhMLvpSdPviukafKwVN8BnBUTamirptsQ6Wxo5Cyv8s": {
+        "name": "Future",
+        "symbol": "FTR",
+        "decimals": 9,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HEhMLvpSdPviukafKwVN8BnBUTamirptsQ6Wxo5Cyv8s/logo.png"
+    },
+    "CH74tuRLTYcxG7qNJCsV9rghfLXJCQJbsu7i52a8F1Gn": {
+        "name": "Soldex",
+        "symbol": "SOLX",
+        "decimals": 9,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CH74tuRLTYcxG7qNJCsV9rghfLXJCQJbsu7i52a8F1Gn/logo.png"
+    },
+    "5xnRrqoyoLBixNwjVet6Xb2ZTyBSXhENyUWj4sqzRGrv": {
+        "name": "Quid Token",
+        "symbol": "QUID",
+        "decimals": 9,
+        "logo": "https://cdn.jsdelivr.net/gh/quidtoken/main/quidlogo.png"
+    },
+    "HYoGYzMcbYq3tAvpg15d8VFYVHw6jWEVuGgpNTrG8hps": {
+        "name": "DOGELON SOLANA",
+        "symbol": "DOGELON",
+        "decimals": 4,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HYoGYzMcbYq3tAvpg15d8VFYVHw6jWEVuGgpNTrG8hps/logo.png"
+    },
+    "GHAhTrgtYW7jRkojQQWPGkMbmG5jGK25QBu6FSj5tvZ5": {
+        "name": "Glitter",
+        "symbol": "GLTR",
+        "decimals": 9,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GHAhTrgtYW7jRkojQQWPGkMbmG5jGK25QBu6FSj5tvZ5/logo.png"
+    },
+    "4q5UBXJxE91BZKX548qhU8i5QBWvZdXzS3RZwfTgLQda": {
+        "name": "Hydrazine",
+        "symbol": "N2H4",
+        "decimals": 6,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4q5UBXJxE91BZKX548qhU8i5QBWvZdXzS3RZwfTgLQda/logo.png"
+    },
+    "76ijxiMkj4DX8q9QMtqpzTxFnT4KPmWv47sZf2kKoVwk": {
+        "name": "QuietFire",
+        "symbol": "QF",
+        "decimals": 9,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/76ijxiMkj4DX8q9QMtqpzTxFnT4KPmWv47sZf2kKoVwk/logo.png"
+    },
+    "FnVPD3fRutXcibEHDYP1gv8kuYJx2SNCi2EizcAsR4wN": {
+        "name": "Camp Coin",
+        "symbol": "CMP",
+        "decimals": 9,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FnVPD3fRutXcibEHDYP1gv8kuYJx2SNCi2EizcAsR4wN/logo.png"
+    },
+    "KARTdF5K68Q2nGppizG3DeCzp7AhHy6YXf2uTQjBSQx": {
+        "name": "Mushroom Racers Token",
+        "symbol": "VROOM",
+        "decimals": 0,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KARTdF5K68Q2nGppizG3DeCzp7AhHy6YXf2uTQjBSQx/logo.png"
+    },
+    "fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m": {
+        "name": "FUJI",
+        "symbol": "FUJI",
+        "decimals": 3,
+        "logo": "https://raw.githubusercontent.com/MarkSackerberg/token-list/main/assets/mainnet/fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m/logo.png"
+    },
+    "skuLLY6NHFrjL3oGpWMrrwjCfWMSvwp6AD7resMF9m7": {
+        "name": "Skullbots",
+        "symbol": "SUMMON",
+        "decimals": 0,
+        "logo": "https://raw.githubusercontent.com/Neurologist/assets/main/summon.png"
+    },
+    "sMEANebFMnd9uTYpyntGzBmTmzEukRFwCjEcnXT2E8z": {
+        "name": "Staked MEAN",
+        "symbol": "sMEAN",
+        "decimals": 6,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sMEANebFMnd9uTYpyntGzBmTmzEukRFwCjEcnXT2E8z/logo.svg"
+    },
+    "buMnhMd5xSyXBssTQo15jouu8VhuEZJCfbtBUZgRcuW": {
+        "name": "NeoNomad",
+        "symbol": "NNI",
+        "decimals": 6,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/buMnhMd5xSyXBssTQo15jouu8VhuEZJCfbtBUZgRcuW/logo.png"
+    },
+    "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee": {
+        "name": "Synthetic USD (Fabric)",
+        "symbol": "fUSD",
+        "decimals": 8,
+        "logo": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/ec3521b6-b382-4efb-1d16-7b60c75b9100/public"
+    },
+    "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk": {
+        "name": "calUSD Stablecoin",
+        "symbol": "calUSD",
+        "decimals": 9,
+        "logo": "https://user-images.githubusercontent.com/8619106/167318344-e9ea9147-8969-4818-877c-5c75de10aecc.png"
+    },
+    "boooCKXQn9YTK2aqN5pWftQeb9TH7cj7iUKuVCShWQx": {
+        "name": "Boo Network",
+        "symbol": "BOO",
+        "decimals": 9,
+        "logo": "https://arweave.net/Reo2_w4k9PGdtYX3p8BllNZpSbbIJ-zype0qdbQgsoE"
+    },
+    "7V5AaqHTwiySegaAmNPLekQfTAoK4WvEVgfi2R8V44tB": {
+        "name": "Random FRAKTs",
+        "symbol": "rFRAKT",
+        "decimals": 9,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7V5AaqHTwiySegaAmNPLekQfTAoK4WvEVgfi2R8V44tB/rFRAKT.png"
+    },
+    "Vjq9T5xmqRzLXQRyvigzyZzpHCGCsbYAJ7afLVuF8j9": {
+        "name": "Random Zaysan Raptors",
+        "symbol": "rZOOM",
+        "decimals": 9,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Vjq9T5xmqRzLXQRyvigzyZzpHCGCsbYAJ7afLVuF8j9/rZOOM.png"
+    },
+    "48ntzCLdm9apLbZ8JV5b2s3teMZ1ij1XqokJiqiRYmb3": {
+        "name": "Restack Coin",
+        "symbol": "RESTACK",
+        "decimals": 9,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/48ntzCLdm9apLbZ8JV5b2s3teMZ1ij1XqokJiqiRYmb3/logo.png"
+    },
+    "6ABQdaTwRvmacto7aeRBGghS6Pxctd6cFGL8gDdwV1dd": {
+        "name": "Extra Reality",
+        "symbol": "XTR",
+        "decimals": 8,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ABQdaTwRvmacto7aeRBGghS6Pxctd6cFGL8gDdwV1dd/logo.png"
+    },
+    "BoeDfSFRyaeuaLP97dhxkHnsn7hhhes3w3X8GgQj5obK": {
+        "name": "Famous Fox Federation Solvent Droplet",
+        "symbol": "svtFFF",
+        "decimals": 8,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoeDfSFRyaeuaLP97dhxkHnsn7hhhes3w3X8GgQj5obK/logo.png"
+    },
     "CRMaDAzKCWYbhUfsKYA8448vaA1qUzCETd7gNBDzQ1ks": {
         "name": "Crema",
         "symbol": "CRM",
@@ -3959,6 +4091,12 @@
         "decimals": 8,
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png"
     },
+    "isktkk27QaTpoRUhwwS5n9YUoYf8ydCuoTz5R2tFEKu": {
+        "name": "Rafkr\u00f3na",
+        "symbol": "ISKT",
+        "decimals": 2,
+        "logo": "https://raw.githubusercontent.com/rafmyntasjodur/iskt-metadata/main/logo.png"
+    },
     "PhiLR4JDZB9z92rYT5xBXKCxmq4pGB1LYjtybii7aiS": {
         "name": "Phil Overdrive | Youtube",
         "symbol": "POVT",
@@ -4012,5 +4150,137 @@
         "symbol": "KART",
         "decimals": 6,
         "logo": "https://arweave.net/X9ohmd49MmOEYi4dfMyOv_M24NnnyzQXZEoALTuQ0ao"
+    },
+    "dab15vg2k8zGJPy4xM2DH2G2BY3khrqduXapzYAV3y8": {
+        "name": "dabloons",
+        "symbol": "dabloons",
+        "decimals": 8,
+        "logo": "https://arweave.net/AYbNmLsPhYrlgrVtCERbp7UysLGL-IXQQrTL826ai6Y"
+    },
+    "31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk": {
+        "name": "Graphite",
+        "symbol": "GP",
+        "decimals": 9,
+        "logo": "https://arweave.net/ALLzymnuIihFPhoNUJpPxQzbGI8LodXKhNzXzbRMPbA"
+    },
+    "B5Fvzd2RL5ctrmFsvDafXiNGbBqbxapiryJo8JfoSEcA": {
+        "name": "KITTI TOKEN",
+        "symbol": "KITTI",
+        "decimals": 5,
+        "logo": "https://arweave.net/I1RzcnSel2oghDkMBE-lZBV9b6AuyDJc0Ywo6QmDlSQ"
+    },
+    "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE": {
+        "name": "Cogent SOL",
+        "symbol": "cgntSOL",
+        "decimals": 9,
+        "logo": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
+    },
+    "HDVR9Edy2o8uRdf5xFUDSGVLo556UjAaNR9BrwZ8QeMJ": {
+        "name": "Flowers",
+        "symbol": "FLWR",
+        "decimals": 9,
+        "logo": "https://arweave.net/3brG4EGxdYt30nQMI-T_wkaOXl0xJQfcERzNFJpzTV0"
+    },
+    "DUALa4FC2yREwZ59PHeu1un4wis36vHRv5hWVBmzykCJ": {
+        "name": "Dual DAO Token",
+        "symbol": "DUAL",
+        "decimals": 6,
+        "logo": "https://www.dual.finance/images/token-logos/dual.png"
+    },
+    "FMG9mNVazePvGtAY1WESUmY9j3LvhVzmkQsaucwRy8EB": {
+        "name": "Cattoshi",
+        "symbol": "COSHI",
+        "decimals": 6,
+        "logo": "https://arweave.net/k5GPPYbAhUhJBc36Cjk_iVqhQfA63Kn01A3TMv65P04"
+    },
+    "8wbKU77rWVmpfejfXxGVo5H47fyRQHkpWxZnqUT1Vjd3": {
+        "name": "$BAGS",
+        "symbol": "$BAGS",
+        "decimals": 3,
+        "logo": "https://shdw-drive.genesysgo.net/DzX4XevSiYbmXH9GDQZPVKdEMXiDprvMYBt7LbZ31XhH/image.png"
+    },
+    "AgnHzGspNu7F3nFM4izuPt5g7m1URjVaTaFNgvqSXcjC": {
+        "name": "Nectar",
+        "symbol": "NCTR",
+        "decimals": 9,
+        "logo": "https://www.arweave.net/8imTwET4YerNLKAL8nEmI6ONDlMXBHZ96YC7TeFTI1s?ext=png"
+    },
+    "9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU": {
+        "name": "BEAR",
+        "symbol": "BEAR",
+        "decimals": 0,
+        "logo": "https://nova-host.nyc3.cdn.digitaloceanspaces.com/spl_tokens/9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU.jpeg"
+    },
+    "8LH3QMo7xkMJx85Kg4pfiQY1g1ZgiVEe1KktSpaT89mP": {
+        "name": "Arbitrum (Portal from Arbitrum)",
+        "symbol": "ARB",
+        "decimals": 8,
+        "logo": "https://assets.coingecko.com/coins/images/16547/small/arbitrium.png?1624418103"
+    },
+    "5HsZR8eG7QpQcN8Mnp8oFdENRkJMP9ZkcKhPSCKTJSWh": {
+        "name": "Moon Roll Coin",
+        "symbol": "MRC",
+        "decimals": 9,
+        "logo": "https://moonroll-bucket.s3.amazonaws.com/token-image/Frame.png"
+    },
+    "3acxNNmfdKKZj9i35P4VDBFm74Ufdt8ojKWceVGynwC5": {
+        "name": "GM",
+        "symbol": "GM",
+        "decimals": 4,
+        "logo": "https://arweave.net/jhNqKLDDC2ZtanzmFt-OZZJLFEYRpzus3rzhl7MGiOU"
+    },
+    "CCRJohp9bfQdhZCvCe7MzUQuXMJkKBi4XCjUq3A2YqN8": {
+        "name": "BOOP",
+        "symbol": "BOOP",
+        "decimals": 10,
+        "logo": "https://arweave.net/2ArDrNlyF34gjZ7UdXmMVl_ET9igdcyDiAY-VFsw3ao"
+    },
+    "3zE4Qmh9hrC4inHynT3aSRzHcWhnxPCHLeN9WWqvoRVz": {
+        "name": "Race Raiders Rewards",
+        "symbol": "RRR",
+        "decimals": 9,
+        "logo": "https://arweave.net/SH106hrChudKjQ_c6e6yd0tsGUbFIScv2LL6Dp-LDiI"
+    },
+    "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t": {
+        "name": "Midas",
+        "symbol": "MDS",
+        "decimals": 9,
+        "logo": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw"
+    },
+    "6eQ5a1qhn1v7Q8h7zYHZrfgeAKrVgN7RJgty3ttth6R7": {
+        "name": "Hyper Coin",
+        "symbol": "HC",
+        "decimals": 4,
+        "logo": "https://bafkreigwterpxjrdsavfxduhffbkgshm6r4z2d76kpj6vti5m76qzl7xxq.ipfs.dweb.link"
+    },
+    "ATX1pK34GgPtKJLaXvGHQqu5DKkoJnmZBbwCxvmq3Y3h": {
+        "name": "Atellix",
+        "symbol": "ATX",
+        "decimals": 6,
+        "logo": "https://media.atellix.net/token/atx.png"
+    },
+    "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux": {
+        "name": "Helium Network Token",
+        "symbol": "HNT",
+        "decimals": 8,
+        "logo": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/hnt.png"
+    },
+    "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6": {
+        "name": "Helium Mobile",
+        "symbol": "MOBILE",
+        "decimals": 6,
+        "logo": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/mobile.png"
+    },
+    "iotEVVZLEywoTn1QdwNPddxPWszn3zFhEot3MfL9fns": {
+        "name": "Helium IOT",
+        "symbol": "IOT",
+        "decimals": 6,
+        "logo": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/iot.png"
+    },
+    "HxRELUQfvvjToVbacjr9YECdfQMUqGgPYB68jVDYxkbr": {
+        "name": "NANA Token",
+        "symbol": "NANA",
+        "decimals": 9,
+        "logo": "https://shdw-drive.genesysgo.net/EV1ARo89dwRzR1kv7JMr7V97qrcXjffkcwEuNHMJfJmz/Banan.png"
     }
 }

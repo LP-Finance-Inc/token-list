@@ -2614,7 +2614,7 @@
             "symbol": "SHDW",
             "name": "Shadow Token",
             "decimals": 9,
-            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y/logo.png"
+            "logoURI": "https://shdw-drive.genesysgo.net/FDcC9gn12fFkSU2KuQYH4TUjihrZxiTodFRWNF4ns9Kt/250x250_with_padding.png"
         },
         {
             "chainId": 101,
@@ -4834,6 +4834,182 @@
         },
         {
             "chainId": 101,
+            "address": "xStpgUCss9piqeFUk2iLVcvJEGhAdJxJQuwLkXP555G",
+            "symbol": "xSTEP",
+            "name": "Staked Step",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xStpgUCss9piqeFUk2iLVcvJEGhAdJxJQuwLkXP555G/logo.svg"
+        },
+        {
+            "chainId": 101,
+            "address": "HEhMLvpSdPviukafKwVN8BnBUTamirptsQ6Wxo5Cyv8s",
+            "symbol": "FTR",
+            "name": "Future",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HEhMLvpSdPviukafKwVN8BnBUTamirptsQ6Wxo5Cyv8s/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "CH74tuRLTYcxG7qNJCsV9rghfLXJCQJbsu7i52a8F1Gn",
+            "symbol": "SOLX",
+            "name": "Soldex",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CH74tuRLTYcxG7qNJCsV9rghfLXJCQJbsu7i52a8F1Gn/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "5xnRrqoyoLBixNwjVet6Xb2ZTyBSXhENyUWj4sqzRGrv",
+            "symbol": "QUID",
+            "name": "Quid Token",
+            "decimals": 9,
+            "logoURI": "https://cdn.jsdelivr.net/gh/quidtoken/main/quidlogo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "HYoGYzMcbYq3tAvpg15d8VFYVHw6jWEVuGgpNTrG8hps",
+            "symbol": "DOGELON",
+            "name": "DOGELON SOLANA",
+            "decimals": 4,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HYoGYzMcbYq3tAvpg15d8VFYVHw6jWEVuGgpNTrG8hps/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "GHAhTrgtYW7jRkojQQWPGkMbmG5jGK25QBu6FSj5tvZ5",
+            "symbol": "GLTR",
+            "name": "Glitter",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GHAhTrgtYW7jRkojQQWPGkMbmG5jGK25QBu6FSj5tvZ5/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "4q5UBXJxE91BZKX548qhU8i5QBWvZdXzS3RZwfTgLQda",
+            "symbol": "N2H4",
+            "name": "Hydrazine",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4q5UBXJxE91BZKX548qhU8i5QBWvZdXzS3RZwfTgLQda/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "76ijxiMkj4DX8q9QMtqpzTxFnT4KPmWv47sZf2kKoVwk",
+            "symbol": "QF",
+            "name": "QuietFire",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/76ijxiMkj4DX8q9QMtqpzTxFnT4KPmWv47sZf2kKoVwk/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "FnVPD3fRutXcibEHDYP1gv8kuYJx2SNCi2EizcAsR4wN",
+            "symbol": "CMP",
+            "name": "Camp Coin",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FnVPD3fRutXcibEHDYP1gv8kuYJx2SNCi2EizcAsR4wN/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "KARTdF5K68Q2nGppizG3DeCzp7AhHy6YXf2uTQjBSQx",
+            "symbol": "VROOM",
+            "name": "Mushroom Racers Token",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KARTdF5K68Q2nGppizG3DeCzp7AhHy6YXf2uTQjBSQx/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m",
+            "symbol": "FUJI",
+            "name": "FUJI",
+            "decimals": 3,
+            "logoURI": "https://raw.githubusercontent.com/MarkSackerberg/token-list/main/assets/mainnet/fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "skuLLY6NHFrjL3oGpWMrrwjCfWMSvwp6AD7resMF9m7",
+            "symbol": "SUMMON",
+            "name": "Skullbots",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/Neurologist/assets/main/summon.png"
+        },
+        {
+            "chainId": 101,
+            "address": "sMEANebFMnd9uTYpyntGzBmTmzEukRFwCjEcnXT2E8z",
+            "symbol": "sMEAN",
+            "name": "Staked MEAN",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sMEANebFMnd9uTYpyntGzBmTmzEukRFwCjEcnXT2E8z/logo.svg"
+        },
+        {
+            "chainId": 101,
+            "address": "buMnhMd5xSyXBssTQo15jouu8VhuEZJCfbtBUZgRcuW",
+            "symbol": "NNI",
+            "name": "NeoNomad",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/buMnhMd5xSyXBssTQo15jouu8VhuEZJCfbtBUZgRcuW/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+            "symbol": "fUSD",
+            "name": "Synthetic USD (Fabric)",
+            "decimals": 8,
+            "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/ec3521b6-b382-4efb-1d16-7b60c75b9100/public"
+        },
+        {
+            "chainId": 101,
+            "address": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+            "symbol": "calUSD",
+            "name": "calUSD Stablecoin",
+            "decimals": 9,
+            "logoURI": "https://user-images.githubusercontent.com/8619106/167318344-e9ea9147-8969-4818-877c-5c75de10aecc.png"
+        },
+        {
+            "chainId": 101,
+            "address": "boooCKXQn9YTK2aqN5pWftQeb9TH7cj7iUKuVCShWQx",
+            "symbol": "BOO",
+            "name": "Boo Network",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/Reo2_w4k9PGdtYX3p8BllNZpSbbIJ-zype0qdbQgsoE"
+        },
+        {
+            "chainId": 101,
+            "address": "7V5AaqHTwiySegaAmNPLekQfTAoK4WvEVgfi2R8V44tB",
+            "symbol": "rFRAKT",
+            "name": "Random FRAKTs",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7V5AaqHTwiySegaAmNPLekQfTAoK4WvEVgfi2R8V44tB/rFRAKT.png"
+        },
+        {
+            "chainId": 101,
+            "address": "Vjq9T5xmqRzLXQRyvigzyZzpHCGCsbYAJ7afLVuF8j9",
+            "symbol": "rZOOM",
+            "name": "Random Zaysan Raptors",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Vjq9T5xmqRzLXQRyvigzyZzpHCGCsbYAJ7afLVuF8j9/rZOOM.png"
+        },
+        {
+            "chainId": 101,
+            "address": "48ntzCLdm9apLbZ8JV5b2s3teMZ1ij1XqokJiqiRYmb3",
+            "symbol": "RESTACK",
+            "name": "Restack Coin",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/48ntzCLdm9apLbZ8JV5b2s3teMZ1ij1XqokJiqiRYmb3/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "6ABQdaTwRvmacto7aeRBGghS6Pxctd6cFGL8gDdwV1dd",
+            "symbol": "XTR",
+            "name": "Extra Reality",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ABQdaTwRvmacto7aeRBGghS6Pxctd6cFGL8gDdwV1dd/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "BoeDfSFRyaeuaLP97dhxkHnsn7hhhes3w3X8GgQj5obK",
+            "symbol": "svtFFF",
+            "name": "Famous Fox Federation Solvent Droplet",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoeDfSFRyaeuaLP97dhxkHnsn7hhhes3w3X8GgQj5obK/logo.png"
+        },
+        {
+            "chainId": 101,
             "address": "CRMaDAzKCWYbhUfsKYA8448vaA1qUzCETd7gNBDzQ1ks",
             "symbol": "CRM",
             "name": "Crema",
@@ -5282,6 +5458,14 @@
         },
         {
             "chainId": 101,
+            "address": "isktkk27QaTpoRUhwwS5n9YUoYf8ydCuoTz5R2tFEKu",
+            "symbol": "ISKT",
+            "name": "Rafkr\u00f3na",
+            "decimals": 2,
+            "logoURI": "https://raw.githubusercontent.com/rafmyntasjodur/iskt-metadata/main/logo.png"
+        },
+        {
+            "chainId": 101,
             "address": "PhiLR4JDZB9z92rYT5xBXKCxmq4pGB1LYjtybii7aiS",
             "symbol": "POVT",
             "name": "Phil Overdrive | Youtube",
@@ -5351,6 +5535,198 @@
             "name": "Klausen Art",
             "decimals": 6,
             "logoURI": "https://arweave.net/X9ohmd49MmOEYi4dfMyOv_M24NnnyzQXZEoALTuQ0ao"
+        },
+        {
+            "chainId": 101,
+            "address": "dab15vg2k8zGJPy4xM2DH2G2BY3khrqduXapzYAV3y8",
+            "symbol": "dabloons",
+            "name": "dabloons",
+            "decimals": 8,
+            "logoURI": "https://arweave.net/AYbNmLsPhYrlgrVtCERbp7UysLGL-IXQQrTL826ai6Y"
+        },
+        {
+            "chainId": 101,
+            "address": "31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk",
+            "symbol": "GP",
+            "name": "Graphite",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/ALLzymnuIihFPhoNUJpPxQzbGI8LodXKhNzXzbRMPbA"
+        },
+        {
+            "chainId": 101,
+            "address": "B5Fvzd2RL5ctrmFsvDafXiNGbBqbxapiryJo8JfoSEcA",
+            "symbol": "KITTI",
+            "name": "KITTI TOKEN",
+            "decimals": 5,
+            "logoURI": "https://arweave.net/I1RzcnSel2oghDkMBE-lZBV9b6AuyDJc0Ywo6QmDlSQ"
+        },
+        {
+            "chainId": 101,
+            "address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+            "symbol": "cgntSOL",
+            "name": "Cogent SOL",
+            "decimals": 9,
+            "logoURI": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
+        },
+        {
+            "chainId": 101,
+            "address": "HDVR9Edy2o8uRdf5xFUDSGVLo556UjAaNR9BrwZ8QeMJ",
+            "symbol": "FLWR",
+            "name": "Flowers",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/3brG4EGxdYt30nQMI-T_wkaOXl0xJQfcERzNFJpzTV0"
+        },
+        {
+            "chainId": 101,
+            "address": "DUALa4FC2yREwZ59PHeu1un4wis36vHRv5hWVBmzykCJ",
+            "symbol": "DUAL",
+            "name": "Dual DAO Token",
+            "decimals": 6,
+            "logoURI": "https://www.dual.finance/images/token-logos/dual.png"
+        },
+        {
+            "chainId": 101,
+            "address": "FMG9mNVazePvGtAY1WESUmY9j3LvhVzmkQsaucwRy8EB",
+            "symbol": "COSHI",
+            "name": "Cattoshi",
+            "decimals": 6,
+            "logoURI": "https://arweave.net/k5GPPYbAhUhJBc36Cjk_iVqhQfA63Kn01A3TMv65P04"
+        },
+        {
+            "chainId": 101,
+            "address": "8wbKU77rWVmpfejfXxGVo5H47fyRQHkpWxZnqUT1Vjd3",
+            "symbol": "$BAGS",
+            "name": "$BAGS",
+            "decimals": 3,
+            "logoURI": "https://shdw-drive.genesysgo.net/DzX4XevSiYbmXH9GDQZPVKdEMXiDprvMYBt7LbZ31XhH/image.png"
+        },
+        {
+            "chainId": 101,
+            "address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+            "symbol": "cgntSOL",
+            "name": "Cogent SOL",
+            "decimals": 9,
+            "logoURI": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
+        },
+        {
+            "chainId": 101,
+            "address": "AgnHzGspNu7F3nFM4izuPt5g7m1URjVaTaFNgvqSXcjC",
+            "symbol": "NCTR",
+            "name": "Nectar",
+            "decimals": 9,
+            "logoURI": "https://www.arweave.net/8imTwET4YerNLKAL8nEmI6ONDlMXBHZ96YC7TeFTI1s?ext=png"
+        },
+        {
+            "chainId": 101,
+            "address": "9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU",
+            "symbol": "BEAR",
+            "name": "BEAR",
+            "decimals": 0,
+            "logoURI": "https://nova-host.nyc3.cdn.digitaloceanspaces.com/spl_tokens/9LmCL3nyvFG95cB9RpaszPTAwaQykVAHcSxQbJ6vNpAU.jpeg"
+        },
+        {
+            "chainId": 101,
+            "address": "8LH3QMo7xkMJx85Kg4pfiQY1g1ZgiVEe1KktSpaT89mP",
+            "symbol": "ARB",
+            "name": "Arbitrum (Portal from Arbitrum)",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/16547/small/arbitrium.png?1624418103"
+        },
+        {
+            "chainId": 101,
+            "address": "5HsZR8eG7QpQcN8Mnp8oFdENRkJMP9ZkcKhPSCKTJSWh",
+            "symbol": "MRC",
+            "name": "Moon Roll Coin",
+            "decimals": 9,
+            "logoURI": "https://moonroll-bucket.s3.amazonaws.com/token-image/Frame.png"
+        },
+        {
+            "chainId": 101,
+            "address": "3acxNNmfdKKZj9i35P4VDBFm74Ufdt8ojKWceVGynwC5",
+            "symbol": "GM",
+            "name": "GM",
+            "decimals": 4,
+            "logoURI": "https://arweave.net/jhNqKLDDC2ZtanzmFt-OZZJLFEYRpzus3rzhl7MGiOU"
+        },
+        {
+            "chainId": 101,
+            "address": "8LH3QMo7xkMJx85Kg4pfiQY1g1ZgiVEe1KktSpaT89mP",
+            "symbol": "ARB",
+            "name": "Arbitrum (Portal from Arbitrum)",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/16547/small/arbitrium.png?1624418103"
+        },
+        {
+            "chainId": 101,
+            "address": "CCRJohp9bfQdhZCvCe7MzUQuXMJkKBi4XCjUq3A2YqN8",
+            "symbol": "BOOP",
+            "name": "BOOP",
+            "decimals": 10,
+            "logoURI": "https://arweave.net/2ArDrNlyF34gjZ7UdXmMVl_ET9igdcyDiAY-VFsw3ao"
+        },
+        {
+            "chainId": 101,
+            "address": "3zE4Qmh9hrC4inHynT3aSRzHcWhnxPCHLeN9WWqvoRVz",
+            "symbol": "RRR",
+            "name": "Race Raiders Rewards",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/SH106hrChudKjQ_c6e6yd0tsGUbFIScv2LL6Dp-LDiI"
+        },
+        {
+            "chainId": 101,
+            "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+            "symbol": "MDS",
+            "name": "Midas",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw"
+        },
+        {
+            "chainId": 101,
+            "address": "6eQ5a1qhn1v7Q8h7zYHZrfgeAKrVgN7RJgty3ttth6R7",
+            "symbol": "HC",
+            "name": "Hyper Coin",
+            "decimals": 4,
+            "logoURI": "https://bafkreigwterpxjrdsavfxduhffbkgshm6r4z2d76kpj6vti5m76qzl7xxq.ipfs.dweb.link"
+        },
+        {
+            "chainId": 101,
+            "address": "ATX1pK34GgPtKJLaXvGHQqu5DKkoJnmZBbwCxvmq3Y3h",
+            "symbol": "ATX",
+            "name": "Atellix",
+            "decimals": 6,
+            "logoURI": "https://media.atellix.net/token/atx.png"
+        },
+        {
+            "chainId": 101,
+            "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+            "symbol": "HNT",
+            "name": "Helium Network Token",
+            "decimals": 8,
+            "logoURI": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/hnt.png"
+        },
+        {
+            "chainId": 101,
+            "address": "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6",
+            "symbol": "MOBILE",
+            "name": "Helium Mobile",
+            "decimals": 6,
+            "logoURI": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/mobile.png"
+        },
+        {
+            "chainId": 101,
+            "address": "iotEVVZLEywoTn1QdwNPddxPWszn3zFhEot3MfL9fns",
+            "symbol": "IOT",
+            "name": "Helium IOT",
+            "decimals": 6,
+            "logoURI": "https://shdw-drive.genesysgo.net/CsDkETHRRR1EcueeN346MJoqzymkkr7RFjMqGpZMzAib/iot.png"
+        },
+        {
+            "chainId": 101,
+            "address": "HxRELUQfvvjToVbacjr9YECdfQMUqGgPYB68jVDYxkbr",
+            "symbol": "NANA",
+            "name": "NANA Token",
+            "decimals": 9,
+            "logoURI": "https://shdw-drive.genesysgo.net/EV1ARo89dwRzR1kv7JMr7V97qrcXjffkcwEuNHMJfJmz/Banan.png"
         }
     ]
 }
