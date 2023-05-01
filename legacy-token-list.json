@@ -5727,6 +5727,22 @@
             "name": "NANA Token",
             "decimals": 9,
             "logoURI": "https://shdw-drive.genesysgo.net/EV1ARo89dwRzR1kv7JMr7V97qrcXjffkcwEuNHMJfJmz/Banan.png"
+        },
+        {
+            "chainId": 101,
+            "address": "FLTHudk5B5zag7JmGXqrYrFfey6otevLQA6jm1UHHLEE",
+            "symbol": "FLTH",
+            "name": "FLTH",
+            "decimals": 9,
+            "logoURI": "https://www.arweave.net/6cZ-d9BnAsCqxkpzazYmKjLpUN2kE-jYnU3WDV4_lo0?ext=png"
+        },
+        {
+            "chainId": 101,
+            "address": "Fishy64jCaa3ooqXw7BHtKvYD8BTkSyAPh6RNE3xZpcN",
+            "symbol": "FISHY",
+            "name": "FISHY by sharky.fi",
+            "decimals": 6,
+            "logoURI": "https://shdw-drive.genesysgo.net/CpRahRvMZad2VNTJDN24m4Bk6PsWRBm14w684RatY1bd/The%20winning%20logo.png"
         }
     ]
 }
