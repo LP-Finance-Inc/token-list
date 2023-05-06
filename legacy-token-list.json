@@ -5759,6 +5759,14 @@
             "name": "PUGAI",
             "decimals": 5,
             "logoURI": "https://shdw-drive.genesysgo.net/CS412vMTyfY1J4u1Ve7UjAdhGu7V9jCJibkVussMnaKr/pug1%20(2).png"
+        },
+        {
+            "chainId": 101,
+            "address": "9tQhCmFtCh56qqf9szLQ8dNjYcd4TTv6MWPpw6MqLubu",
+            "symbol": "CMPN",
+            "name": "Companion",
+            "decimals": 6,
+            "logoURI": "https://www.arweave.net/B51NQ1mjb0ntBJ1TvkmYxHXcMbfam4wqIeJaICHBKQY?ext=png"
         }
     ]
 }
