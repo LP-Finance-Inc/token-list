@@ -5746,6 +5746,14 @@
         },
         {
             "chainId": 101,
+            "address": "CYuXNHURE8cF3rQc1687DZnmsWx9ATNG3mZPFmryu22S",
+            "symbol": "PEPE",
+            "name": "PEPESOLANA",
+            "decimals": 9,
+            "logoURI": "https://shdw-drive.genesysgo.net/85Mup8SQSvcTXsykzNTAtypV2v3zYrYu9eFTRvUUwmXK/logopep200x200.png"
+        },
+        {
+            "chainId": 101,
             "address": "PugAiDuaQ5hzicBHAW9qrQQ8qi4B6sh3n7PknKhyjeX",
             "symbol": "PUGAI",
             "name": "PUGAI",
