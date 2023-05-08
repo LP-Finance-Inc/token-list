@@ -5539,8 +5539,8 @@
         {
             "chainId": 101,
             "address": "dab15vg2k8zGJPy4xM2DH2G2BY3khrqduXapzYAV3y8",
-            "symbol": "dabloons",
-            "name": "dabloons",
+            "symbol": "DABLNS",
+            "name": "DABLOONS",
             "decimals": 8,
             "logoURI": "https://arweave.net/AYbNmLsPhYrlgrVtCERbp7UysLGL-IXQQrTL826ai6Y"
         },
@@ -5767,6 +5767,22 @@
             "name": "Companion",
             "decimals": 6,
             "logoURI": "https://www.arweave.net/B51NQ1mjb0ntBJ1TvkmYxHXcMbfam4wqIeJaICHBKQY?ext=png"
+        },
+        {
+            "chainId": 101,
+            "address": "AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR",
+            "symbol": "GUAC",
+            "name": "Guacamole",
+            "decimals": 5,
+            "logoURI": "https://shdw-drive.genesysgo.net/36JhGq9Aa1hBK6aDYM4NyFjR5Waiu9oHrb44j1j8edUt/image.png"
+        },
+        {
+            "chainId": 101,
+            "address": "9noXzpXnkyEcKF3AeXqUHTdR59V5uvrRBUZ9bwfQwxeq",
+            "symbol": "KING",
+            "name": "KING",
+            "decimals": 9,
+            "logoURI": "https://i.imgur.com/IQ4rEmD.png"
         }
     ]
 }

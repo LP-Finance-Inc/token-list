@@ -4152,8 +4152,8 @@
         "logo": "https://arweave.net/X9ohmd49MmOEYi4dfMyOv_M24NnnyzQXZEoALTuQ0ao"
     },
     "dab15vg2k8zGJPy4xM2DH2G2BY3khrqduXapzYAV3y8": {
-        "name": "dabloons",
-        "symbol": "dabloons",
+        "name": "DABLOONS",
+        "symbol": "DABLNS",
         "decimals": 8,
         "logo": "https://arweave.net/AYbNmLsPhYrlgrVtCERbp7UysLGL-IXQQrTL826ai6Y"
     },
@@ -4312,6 +4312,18 @@
         "symbol": "CMPN",
         "decimals": 6,
         "logo": "https://www.arweave.net/B51NQ1mjb0ntBJ1TvkmYxHXcMbfam4wqIeJaICHBKQY?ext=png"
+    },
+    "AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR": {
+        "name": "Guacamole",
+        "symbol": "GUAC",
+        "decimals": 5,
+        "logo": "https://shdw-drive.genesysgo.net/36JhGq9Aa1hBK6aDYM4NyFjR5Waiu9oHrb44j1j8edUt/image.png"
+    },
+    "9noXzpXnkyEcKF3AeXqUHTdR59V5uvrRBUZ9bwfQwxeq": {
+        "name": "KING",
+        "symbol": "KING",
+        "decimals": 9,
+        "logo": "https://i.imgur.com/IQ4rEmD.png"
     },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
