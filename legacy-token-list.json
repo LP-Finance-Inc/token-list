@@ -5799,6 +5799,14 @@
             "name": "Poor token",
             "decimals": 5,
             "logoURI": "https://shdw-drive.genesysgo.net/AZgm3Vdo1QLf8bKUjyearDC9NygpRHmmtzPaBNQcF4jt/IMG_1640.JPG"
+        },
+        {
+            "chainId": 101,
+            "address": "SCSuPPNUSypLBsV4darsrYNg4ANPgaGhKhsA3GmMyjz",
+            "symbol": "SCS",
+            "name": "Solcasino Token",
+            "decimals": 5,
+            "logoURI": "https://files.solcasino.io/logo.png"
         }
     ]
 }
