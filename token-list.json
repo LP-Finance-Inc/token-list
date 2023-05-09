@@ -4313,6 +4313,12 @@
         "decimals": 6,
         "logo": "https://www.arweave.net/B51NQ1mjb0ntBJ1TvkmYxHXcMbfam4wqIeJaICHBKQY?ext=png"
     },
+    "J9BcrQfX4p9D1bvLzRNCbMDv8f44a9LFdeqNE4Yk2WMD": {
+        "name": "International Stable Currency",
+        "symbol": "ISC",
+        "decimals": 6,
+        "logo": "https://raw.githubusercontent.com/theISCTeam/isc_meta/master/logo.png"
+    },
     "AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR": {
         "name": "Guacamole",
         "symbol": "GUAC",
@@ -4324,6 +4330,12 @@
         "symbol": "KING",
         "decimals": 9,
         "logo": "https://i.imgur.com/IQ4rEmD.png"
+    },
+    "2mqi8iLJf9WaVRHd7nhRkqvCafxfb3Us7wshaJR73ykS": {
+        "name": "Poor token",
+        "symbol": "POOR",
+        "decimals": 5,
+        "logo": "https://shdw-drive.genesysgo.net/AZgm3Vdo1QLf8bKUjyearDC9NygpRHmmtzPaBNQcF4jt/IMG_1640.JPG"
     },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
