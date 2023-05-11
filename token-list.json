@@ -4343,6 +4343,18 @@
         "decimals": 5,
         "logo": "https://files.solcasino.io/logo.png"
     },
+    "gso1xA56hacfgTHTF4F7wN5r4jbnJsKh99vR595uybA": {
+        "name": "Sunrise gSOL",
+        "symbol": "GSOL",
+        "decimals": 9,
+        "logo": "https://arweave.net/46QNhUyat533ptVC2myiNVb5BvSP7PAFzM5ILCZTrGU"
+    },
+    "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y": {
+        "name": "Access Protocol",
+        "symbol": "ACS",
+        "decimals": 6,
+        "logo": "https://ap-staging.fra1.digitaloceanspaces.com/1663691449945"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",

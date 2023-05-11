@@ -5807,6 +5807,22 @@
             "name": "Solcasino Token",
             "decimals": 5,
             "logoURI": "https://files.solcasino.io/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "gso1xA56hacfgTHTF4F7wN5r4jbnJsKh99vR595uybA",
+            "symbol": "GSOL",
+            "name": "Sunrise gSOL",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/46QNhUyat533ptVC2myiNVb5BvSP7PAFzM5ILCZTrGU"
+        },
+        {
+            "chainId": 101,
+            "address": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
+            "symbol": "ACS",
+            "name": "Access Protocol",
+            "decimals": 6,
+            "logoURI": "https://ap-staging.fra1.digitaloceanspaces.com/1663691449945"
         }
     ]
 }
