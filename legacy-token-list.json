@@ -5823,6 +5823,14 @@
             "name": "Access Protocol",
             "decimals": 6,
             "logoURI": "https://ap-staging.fra1.digitaloceanspaces.com/1663691449945"
+        },
+        {
+            "chainId": 101,
+            "address": "42KmnheUHt3UaQFoAKnipLgBJ1Zm427heJdQcHGPtnjc",
+            "symbol": "$TURBO",
+            "name": "TURBO on Solana",
+            "decimals": 7,
+            "logoURI": "https://arweave.net/FVrzsx6r7mwCakD64Axt59qAB_g-nvYfA0wvWydw5u0"
         }
     ]
 }

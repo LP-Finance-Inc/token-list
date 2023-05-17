@@ -4355,6 +4355,12 @@
         "decimals": 6,
         "logo": "https://ap-staging.fra1.digitaloceanspaces.com/1663691449945"
     },
+    "42KmnheUHt3UaQFoAKnipLgBJ1Zm427heJdQcHGPtnjc": {
+        "name": "TURBO on Solana",
+        "symbol": "$TURBO",
+        "decimals": 7,
+        "logo": "https://arweave.net/FVrzsx6r7mwCakD64Axt59qAB_g-nvYfA0wvWydw5u0"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",
