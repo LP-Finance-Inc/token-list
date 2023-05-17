@@ -4355,6 +4355,30 @@
         "decimals": 6,
         "logo": "https://ap-staging.fra1.digitaloceanspaces.com/1663691449945"
     },
+    "5SwxhEunuUUcWe4ojybdDwky6dpLxAehNmF4AA71STNh": {
+        "name": "SWEETS",
+        "symbol": "$SWTS",
+        "decimals": 5,
+        "logo": "https://arweave.net/TIiNLtJtWuC0yxXPXXQpXalXyGaUFp4rT7h8WG5EwH4"
+    },
+    "4PEMPJXiYd4THpNuaFTf2zB8jKYJJPoEN86vdvKnjv9R": {
+        "name": "ANON",
+        "symbol": "$ANON",
+        "decimals": 7,
+        "logo": "https://arweave.net/hSyqZL4l_8wpk291raYcTZlBs0hNzHncklBQWALOB8E"
+    },
+    "EcK2evV2cDECVsmvY2FxU51eu3fp4w48zrZxuA92AAAN": {
+        "name": "Food Token",
+        "symbol": "FOOD",
+        "decimals": 9,
+        "logo": "https://arweave.net/mq0Euf7EQja8Hr1s7TvhfzLi5GeDWMe3ryvnNJItP3c"
+    },
+    "4TUNzcgp2fPD48fcW4seRjyqyDZMrPj4ZubnXFEsKeYk": {
+        "name": "PRNT",
+        "symbol": "PRNT",
+        "decimals": 7,
+        "logo": "https://shdw-drive.genesysgo.net/EYH4kEfffWwRnF63G6Sx68sHdhkue4trzuSeUji9UJSe/prnt.jpg"
+    },
     "42KmnheUHt3UaQFoAKnipLgBJ1Zm427heJdQcHGPtnjc": {
         "name": "TURBO on Solana",
         "symbol": "$TURBO",

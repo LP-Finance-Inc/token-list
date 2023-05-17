@@ -5826,6 +5826,38 @@
         },
         {
             "chainId": 101,
+            "address": "5SwxhEunuUUcWe4ojybdDwky6dpLxAehNmF4AA71STNh",
+            "symbol": "$SWTS",
+            "name": "SWEETS",
+            "decimals": 5,
+            "logoURI": "https://arweave.net/TIiNLtJtWuC0yxXPXXQpXalXyGaUFp4rT7h8WG5EwH4"
+        },
+        {
+            "chainId": 101,
+            "address": "4PEMPJXiYd4THpNuaFTf2zB8jKYJJPoEN86vdvKnjv9R",
+            "symbol": "$ANON",
+            "name": "ANON",
+            "decimals": 7,
+            "logoURI": "https://arweave.net/hSyqZL4l_8wpk291raYcTZlBs0hNzHncklBQWALOB8E"
+        },
+        {
+            "chainId": 101,
+            "address": "EcK2evV2cDECVsmvY2FxU51eu3fp4w48zrZxuA92AAAN",
+            "symbol": "FOOD",
+            "name": "Food Token",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/mq0Euf7EQja8Hr1s7TvhfzLi5GeDWMe3ryvnNJItP3c"
+        },
+        {
+            "chainId": 101,
+            "address": "4TUNzcgp2fPD48fcW4seRjyqyDZMrPj4ZubnXFEsKeYk",
+            "symbol": "PRNT",
+            "name": "PRNT",
+            "decimals": 7,
+            "logoURI": "https://shdw-drive.genesysgo.net/EYH4kEfffWwRnF63G6Sx68sHdhkue4trzuSeUji9UJSe/prnt.jpg"
+        },
+        {
+            "chainId": 101,
             "address": "42KmnheUHt3UaQFoAKnipLgBJ1Zm427heJdQcHGPtnjc",
             "symbol": "$TURBO",
             "name": "TURBO on Solana",
