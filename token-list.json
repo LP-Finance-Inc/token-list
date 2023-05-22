@@ -2807,12 +2807,6 @@
         "decimals": 2,
         "logo": "https://i.imgur.com/AzJI7FQ.png"
     },
-    "5VQnKaTu522jRQyaawDNBKZjBa5SZoeetyDXEwocYxXN": {
-        "name": "King's token",
-        "symbol": "KING",
-        "decimals": 6,
-        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5VQnKaTu522jRQyaawDNBKZjBa5SZoeetyDXEwocYxXN/logo.png"
-    },
     "Ao94rg8D6oK2TAq3nm8YEQxfS73vZ2GWYw2AKaUihDEY": {
         "name": "CRECK",
         "symbol": "$CRECK",
@@ -53518,6 +53512,12 @@
         "symbol": "CENS",
         "decimals": 8,
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGEDRBaMtigF13ReDs562F3T3CkVvBmorzED3zBufCpC/logo.png"
+    },
+    "5VQnKaTu522jRQyaawDNBKZjBa5SZoeetyDXEwocYxXN": {
+        "name": "King's token",
+        "symbol": "KING",
+        "decimals": 6,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5VQnKaTu522jRQyaawDNBKZjBa5SZoeetyDXEwocYxXN/logo.png"
     },
     "AnFP69EqWTZqYEuYiTu5ThhHb87mNSFvtGjyctJmhJxT": {
         "name": "SolQ",
