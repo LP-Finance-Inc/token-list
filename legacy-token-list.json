@@ -5855,6 +5855,14 @@
             "name": "TURBO on Solana",
             "decimals": 7,
             "logoURI": "https://arweave.net/FVrzsx6r7mwCakD64Axt59qAB_g-nvYfA0wvWydw5u0"
+        },
+        {
+            "chainId": 101,
+            "address": "8HfNu2EfwFQz2srSNDvPsjaWV3G65ZWP3pDC67mcNv6J",
+            "symbol": "NOCT",
+            "name": "Neural Octopus",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/Neural-Octopus-Token/noct-metadata/main/logo.png"
         }
     ]
 }
