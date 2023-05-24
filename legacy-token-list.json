@@ -5863,6 +5863,22 @@
             "name": "Neural Octopus",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/Neural-Octopus-Token/noct-metadata/main/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "24a1k6wSDQUSwoRXJyvkr25kF5do8f6Ddff6A2fTc1pM",
+            "symbol": "$BEAR",
+            "name": "BEAR",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/7Qzb-BKL734z8w77fPNJ8lu3f6TtA87nbiw2A-qmCK0"
+        },
+        {
+            "chainId": 101,
+            "address": "Cu1tCSoauo4Vtqsr9cD86RS4XJqS88LauU69AFV6KMH7",
+            "symbol": "$CULT",
+            "name": "CULT",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/m3ZtS-yx1U1i3g5G8ftib5e_GzpeHxCPBy65YilNV14"
         }
     ]
 }

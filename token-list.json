@@ -4385,6 +4385,18 @@
         "decimals": 9,
         "logo": "https://raw.githubusercontent.com/Neural-Octopus-Token/noct-metadata/main/logo.png"
     },
+    "24a1k6wSDQUSwoRXJyvkr25kF5do8f6Ddff6A2fTc1pM": {
+        "name": "BEAR",
+        "symbol": "$BEAR",
+        "decimals": 9,
+        "logo": "https://arweave.net/7Qzb-BKL734z8w77fPNJ8lu3f6TtA87nbiw2A-qmCK0"
+    },
+    "Cu1tCSoauo4Vtqsr9cD86RS4XJqS88LauU69AFV6KMH7": {
+        "name": "CULT",
+        "symbol": "$CULT",
+        "decimals": 9,
+        "logo": "https://arweave.net/m3ZtS-yx1U1i3g5G8ftib5e_GzpeHxCPBy65YilNV14"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",
