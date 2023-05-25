@@ -5879,6 +5879,14 @@
             "name": "CULT",
             "decimals": 9,
             "logoURI": "https://arweave.net/m3ZtS-yx1U1i3g5G8ftib5e_GzpeHxCPBy65YilNV14"
+        },
+        {
+            "chainId": 101,
+            "address": "KomoNuvereGko9jNKUgb3AJZdG3pDaXjbph77ZWvFy1",
+            "symbol": "KOMO",
+            "name": "Komoverse Token",
+            "decimals": 2,
+            "logoURI": "https://komoverse.io/assets/img/favicon.png"
         }
     ]
 }
