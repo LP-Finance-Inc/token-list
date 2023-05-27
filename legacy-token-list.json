@@ -3746,14 +3746,6 @@
         },
         {
             "chainId": 101,
-            "address": "5VQnKaTu522jRQyaawDNBKZjBa5SZoeetyDXEwocYxXN",
-            "symbol": "KING",
-            "name": "King's token",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5VQnKaTu522jRQyaawDNBKZjBa5SZoeetyDXEwocYxXN/logo.png"
-        },
-        {
-            "chainId": 101,
             "address": "Ao94rg8D6oK2TAq3nm8YEQxfS73vZ2GWYw2AKaUihDEY",
             "symbol": "$CRECK",
             "name": "CRECK",
@@ -5539,8 +5531,8 @@
         {
             "chainId": 101,
             "address": "dab15vg2k8zGJPy4xM2DH2G2BY3khrqduXapzYAV3y8",
-            "symbol": "dabloons",
-            "name": "dabloons",
+            "symbol": "DABLNS",
+            "name": "DABLOONS",
             "decimals": 8,
             "logoURI": "https://arweave.net/AYbNmLsPhYrlgrVtCERbp7UysLGL-IXQQrTL826ai6Y"
         },
@@ -5727,6 +5719,174 @@
             "name": "NANA Token",
             "decimals": 9,
             "logoURI": "https://shdw-drive.genesysgo.net/EV1ARo89dwRzR1kv7JMr7V97qrcXjffkcwEuNHMJfJmz/Banan.png"
+        },
+        {
+            "chainId": 101,
+            "address": "FLTHudk5B5zag7JmGXqrYrFfey6otevLQA6jm1UHHLEE",
+            "symbol": "FLTH",
+            "name": "FLTH",
+            "decimals": 9,
+            "logoURI": "https://www.arweave.net/6cZ-d9BnAsCqxkpzazYmKjLpUN2kE-jYnU3WDV4_lo0?ext=png"
+        },
+        {
+            "chainId": 101,
+            "address": "Fishy64jCaa3ooqXw7BHtKvYD8BTkSyAPh6RNE3xZpcN",
+            "symbol": "FISHY",
+            "name": "FISHY by sharky.fi",
+            "decimals": 6,
+            "logoURI": "https://shdw-drive.genesysgo.net/CpRahRvMZad2VNTJDN24m4Bk6PsWRBm14w684RatY1bd/The%20winning%20logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "CYuXNHURE8cF3rQc1687DZnmsWx9ATNG3mZPFmryu22S",
+            "symbol": "PEPE",
+            "name": "PEPESOLANA",
+            "decimals": 9,
+            "logoURI": "https://shdw-drive.genesysgo.net/85Mup8SQSvcTXsykzNTAtypV2v3zYrYu9eFTRvUUwmXK/logopep200x200.png"
+        },
+        {
+            "chainId": 101,
+            "address": "PugAiDuaQ5hzicBHAW9qrQQ8qi4B6sh3n7PknKhyjeX",
+            "symbol": "PUGAI",
+            "name": "PUGAI",
+            "decimals": 5,
+            "logoURI": "https://shdw-drive.genesysgo.net/CS412vMTyfY1J4u1Ve7UjAdhGu7V9jCJibkVussMnaKr/pug1%20(2).png"
+        },
+        {
+            "chainId": 101,
+            "address": "9tQhCmFtCh56qqf9szLQ8dNjYcd4TTv6MWPpw6MqLubu",
+            "symbol": "CMPN",
+            "name": "Companion",
+            "decimals": 6,
+            "logoURI": "https://www.arweave.net/B51NQ1mjb0ntBJ1TvkmYxHXcMbfam4wqIeJaICHBKQY?ext=png"
+        },
+        {
+            "chainId": 101,
+            "address": "J9BcrQfX4p9D1bvLzRNCbMDv8f44a9LFdeqNE4Yk2WMD",
+            "symbol": "ISC",
+            "name": "International Stable Currency",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/theISCTeam/isc_meta/master/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR",
+            "symbol": "GUAC",
+            "name": "Guacamole",
+            "decimals": 5,
+            "logoURI": "https://shdw-drive.genesysgo.net/36JhGq9Aa1hBK6aDYM4NyFjR5Waiu9oHrb44j1j8edUt/image.png"
+        },
+        {
+            "chainId": 101,
+            "address": "9noXzpXnkyEcKF3AeXqUHTdR59V5uvrRBUZ9bwfQwxeq",
+            "symbol": "KING",
+            "name": "KING",
+            "decimals": 9,
+            "logoURI": "https://i.imgur.com/IQ4rEmD.png"
+        },
+        {
+            "chainId": 101,
+            "address": "2mqi8iLJf9WaVRHd7nhRkqvCafxfb3Us7wshaJR73ykS",
+            "symbol": "POOR",
+            "name": "Poor token",
+            "decimals": 5,
+            "logoURI": "https://shdw-drive.genesysgo.net/AZgm3Vdo1QLf8bKUjyearDC9NygpRHmmtzPaBNQcF4jt/IMG_1640.JPG"
+        },
+        {
+            "chainId": 101,
+            "address": "SCSuPPNUSypLBsV4darsrYNg4ANPgaGhKhsA3GmMyjz",
+            "symbol": "SCS",
+            "name": "Solcasino Token",
+            "decimals": 5,
+            "logoURI": "https://files.solcasino.io/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "gso1xA56hacfgTHTF4F7wN5r4jbnJsKh99vR595uybA",
+            "symbol": "GSOL",
+            "name": "Sunrise gSOL",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/46QNhUyat533ptVC2myiNVb5BvSP7PAFzM5ILCZTrGU"
+        },
+        {
+            "chainId": 101,
+            "address": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
+            "symbol": "ACS",
+            "name": "Access Protocol",
+            "decimals": 6,
+            "logoURI": "https://ap-staging.fra1.digitaloceanspaces.com/1663691449945"
+        },
+        {
+            "chainId": 101,
+            "address": "5SwxhEunuUUcWe4ojybdDwky6dpLxAehNmF4AA71STNh",
+            "symbol": "$SWTS",
+            "name": "SWEETS",
+            "decimals": 5,
+            "logoURI": "https://arweave.net/TIiNLtJtWuC0yxXPXXQpXalXyGaUFp4rT7h8WG5EwH4"
+        },
+        {
+            "chainId": 101,
+            "address": "4PEMPJXiYd4THpNuaFTf2zB8jKYJJPoEN86vdvKnjv9R",
+            "symbol": "$ANON",
+            "name": "ANON",
+            "decimals": 7,
+            "logoURI": "https://arweave.net/hSyqZL4l_8wpk291raYcTZlBs0hNzHncklBQWALOB8E"
+        },
+        {
+            "chainId": 101,
+            "address": "EcK2evV2cDECVsmvY2FxU51eu3fp4w48zrZxuA92AAAN",
+            "symbol": "FOOD",
+            "name": "Food Token",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/mq0Euf7EQja8Hr1s7TvhfzLi5GeDWMe3ryvnNJItP3c"
+        },
+        {
+            "chainId": 101,
+            "address": "4TUNzcgp2fPD48fcW4seRjyqyDZMrPj4ZubnXFEsKeYk",
+            "symbol": "PRNT",
+            "name": "PRNT",
+            "decimals": 7,
+            "logoURI": "https://shdw-drive.genesysgo.net/EYH4kEfffWwRnF63G6Sx68sHdhkue4trzuSeUji9UJSe/prnt.jpg"
+        },
+        {
+            "chainId": 101,
+            "address": "42KmnheUHt3UaQFoAKnipLgBJ1Zm427heJdQcHGPtnjc",
+            "symbol": "$TURBO",
+            "name": "TURBO on Solana",
+            "decimals": 7,
+            "logoURI": "https://arweave.net/FVrzsx6r7mwCakD64Axt59qAB_g-nvYfA0wvWydw5u0"
+        },
+        {
+            "chainId": 101,
+            "address": "8HfNu2EfwFQz2srSNDvPsjaWV3G65ZWP3pDC67mcNv6J",
+            "symbol": "NOCT",
+            "name": "Neural Octopus",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/Neural-Octopus-Token/noct-metadata/main/logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "24a1k6wSDQUSwoRXJyvkr25kF5do8f6Ddff6A2fTc1pM",
+            "symbol": "$BEAR",
+            "name": "BEAR",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/7Qzb-BKL734z8w77fPNJ8lu3f6TtA87nbiw2A-qmCK0"
+        },
+        {
+            "chainId": 101,
+            "address": "Cu1tCSoauo4Vtqsr9cD86RS4XJqS88LauU69AFV6KMH7",
+            "symbol": "$CULT",
+            "name": "CULT",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/m3ZtS-yx1U1i3g5G8ftib5e_GzpeHxCPBy65YilNV14"
+        },
+        {
+            "chainId": 101,
+            "address": "KomoNuvereGko9jNKUgb3AJZdG3pDaXjbph77ZWvFy1",
+            "symbol": "KOMO",
+            "name": "Komoverse Token",
+            "decimals": 2,
+            "logoURI": "https://komoverse.io/assets/img/favicon.png"
         }
     ]
 }
