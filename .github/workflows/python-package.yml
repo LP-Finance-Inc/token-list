@@ -32,6 +32,9 @@ jobs:
 
       - name: Update solana legacy token list
         run: python3 scripts/build_solana_legacy_list.py
+      
+      - name: Update from symbol token list
+        run: python3 scripts/build_from_symbol_list.py
 
       - name: Commit changed file
         uses: EndBug/add-and-commit@v7
