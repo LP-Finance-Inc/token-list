@@ -5887,6 +5887,14 @@
             "name": "Komoverse Token",
             "decimals": 2,
             "logoURI": "https://komoverse.io/assets/img/favicon.png"
+        },
+        {
+            "chainId": 101,
+            "address": "2Ry7AGS1w488LdSxhz2XvSrU1EVUzUGJo27DBP57couh",
+            "symbol": "$BEN",
+            "name": "BEN",
+            "decimals": 7,
+            "logoURI": "https://arweave.net/vvRsvtg1dtVxoUL6XNeRp-cOIYp8BRbaDigmuKvLazk"
         }
     ]
 }

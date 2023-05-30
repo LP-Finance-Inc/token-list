@@ -4349,6 +4349,12 @@
         "decimals": 2,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Komoh63FFuxxMHKuAtpEpL2fYJLooicXKyqDqmPa54n/logo.png"
     },
+    "$BEN": {
+        "address": "2Ry7AGS1w488LdSxhz2XvSrU1EVUzUGJo27DBP57couh",
+        "name": "BEN",
+        "decimals": 7,
+        "logoURI": "https://arweave.net/vvRsvtg1dtVxoUL6XNeRp-cOIYp8BRbaDigmuKvLazk"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
