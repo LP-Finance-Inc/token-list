@@ -5895,6 +5895,14 @@
             "name": "BEN",
             "decimals": 7,
             "logoURI": "https://arweave.net/vvRsvtg1dtVxoUL6XNeRp-cOIYp8BRbaDigmuKvLazk"
+        },
+        {
+            "chainId": 101,
+            "address": "EsirN3orp85uyvZyDrZnbe9cyo7N1114ynLFdwMPCQce",
+            "symbol": "AEVUM",
+            "name": "Aevum",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/mqtxUgbHYOu4lEUzMZy5YFZtItQQZtjZWbFUIbcM6cU"
         }
     ]
 }

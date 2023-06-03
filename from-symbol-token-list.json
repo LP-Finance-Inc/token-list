@@ -4355,6 +4355,12 @@
         "decimals": 7,
         "logoURI": "https://arweave.net/vvRsvtg1dtVxoUL6XNeRp-cOIYp8BRbaDigmuKvLazk"
     },
+    "AEVUM": {
+        "address": "EsirN3orp85uyvZyDrZnbe9cyo7N1114ynLFdwMPCQce",
+        "name": "Aevum",
+        "decimals": 9,
+        "logoURI": "https://arweave.net/mqtxUgbHYOu4lEUzMZy5YFZtItQQZtjZWbFUIbcM6cU"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
