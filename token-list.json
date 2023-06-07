@@ -4415,6 +4415,12 @@
         "decimals": 9,
         "logo": "https://arweave.net/mqtxUgbHYOu4lEUzMZy5YFZtItQQZtjZWbFUIbcM6cU"
     },
+    "CKfatsPMUf8SkiURsDXs7eK6GWb4Jsd6UDbs7twMCWxo": {
+        "name": "BonkEarn",
+        "symbol": "BERN",
+        "decimals": 5,
+        "logo": "https://i.imgur.com/nd9AVZ4.jpeg"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",

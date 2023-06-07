@@ -5903,6 +5903,14 @@
             "name": "Aevum",
             "decimals": 9,
             "logoURI": "https://arweave.net/mqtxUgbHYOu4lEUzMZy5YFZtItQQZtjZWbFUIbcM6cU"
+        },
+        {
+            "chainId": 101,
+            "address": "CKfatsPMUf8SkiURsDXs7eK6GWb4Jsd6UDbs7twMCWxo",
+            "symbol": "BERN",
+            "name": "BonkEarn",
+            "decimals": 5,
+            "logoURI": "https://i.imgur.com/nd9AVZ4.jpeg"
         }
     ]
 }
