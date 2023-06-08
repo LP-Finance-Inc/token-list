@@ -4421,6 +4421,12 @@
         "decimals": 5,
         "logo": "https://i.imgur.com/nd9AVZ4.jpeg"
     },
+    "2kMpEJCZL8vEDZe7YPLMCS9Y3WKSAMedXBn7xHPvsWvi": {
+        "name": "SolarMoon",
+        "symbol": "MOON",
+        "decimals": 5,
+        "logo": "https://gateway.ipfscdn.io/ipfs/bafkreifwdwgcv6fnh5icz3wkefokatsemsojck4hftsnuf4xcfjcvagsva"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",

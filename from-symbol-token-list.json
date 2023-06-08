@@ -4367,6 +4367,12 @@
         "decimals": 5,
         "logoURI": "https://i.imgur.com/nd9AVZ4.jpeg"
     },
+    "MOON": {
+        "address": "BYfBdm1sqa5x3BeqGb2UJ4M732XR6zaXJ8dxppUZhPoe",
+        "name": "MOON",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYfBdm1sqa5x3BeqGb2UJ4M732XR6zaXJ8dxppUZhPoe/logo.png"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -10714,12 +10720,6 @@
         "name": "DRGN token coin",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HbTGRmLYKR3FpteZgKDixhf9vKgkgXXq3Eg4kkDdAxsX/logo.png"
-    },
-    "MOON": {
-        "address": "BYfBdm1sqa5x3BeqGb2UJ4M732XR6zaXJ8dxppUZhPoe",
-        "name": "MOON",
-        "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYfBdm1sqa5x3BeqGb2UJ4M732XR6zaXJ8dxppUZhPoe/logo.png"
     },
     "GOLD": {
         "address": "B7wpoTERtwZ8wMcSGPew9dAQcwW9ab3hQjh8caghuErK",

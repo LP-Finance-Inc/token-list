@@ -5911,6 +5911,14 @@
             "name": "BonkEarn",
             "decimals": 5,
             "logoURI": "https://i.imgur.com/nd9AVZ4.jpeg"
+        },
+        {
+            "chainId": 101,
+            "address": "2kMpEJCZL8vEDZe7YPLMCS9Y3WKSAMedXBn7xHPvsWvi",
+            "symbol": "MOON",
+            "name": "SolarMoon",
+            "decimals": 5,
+            "logoURI": "https://gateway.ipfscdn.io/ipfs/bafkreifwdwgcv6fnh5icz3wkefokatsemsojck4hftsnuf4xcfjcvagsva"
         }
     ]
 }
