@@ -4373,6 +4373,12 @@
         "decimals": 9,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYfBdm1sqa5x3BeqGb2UJ4M732XR6zaXJ8dxppUZhPoe/logo.png"
     },
+    "BULL": {
+        "address": "CSj94sJsnWf9TGKkV7gD2SqVr9y38SqaYmi7qekAyKai",
+        "name": "Bull Token",
+        "decimals": 3,
+        "logoURI": "https://raw.githubusercontent.com/h3ll0x/bullimage/main/bulltoken.png"
+    },
     "REJECT": {
         "address": "4F2yutcbkabE5MJoDvrDLa5U2re5HPABSCVKA7vqrKcH",
         "name": "REJECT Token",
@@ -4576,12 +4582,6 @@
         "name": "Gold Doge Solana",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FdnEZ71hjabwo6Eo6XHGyK4QrE1tVQtBoTGMmgWYAuDn/logo.png"
-    },
-    "BULL": {
-        "address": "CSj94sJsnWf9TGKkV7gD2SqVr9y38SqaYmi7qekAyKai",
-        "name": "Bull Token",
-        "decimals": 3,
-        "logoURI": "https://raw.githubusercontent.com/h3ll0x/bullimage/main/bulltoken.png"
     },
     "BSAMO": {
         "address": "EjaC7vKgimdVMyaF7SkNNaY2D8PDRVfAwThuAoeVvE7V",

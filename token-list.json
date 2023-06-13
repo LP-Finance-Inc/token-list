@@ -4427,6 +4427,12 @@
         "decimals": 5,
         "logo": "https://gateway.ipfscdn.io/ipfs/bafkreifwdwgcv6fnh5icz3wkefokatsemsojck4hftsnuf4xcfjcvagsva"
     },
+    "BULLa6g9e5UCuTXC5Z3Cf7s7CgvJhnJfY71DwipSmF8w": {
+        "name": "BULL",
+        "symbol": "BULL",
+        "decimals": 9,
+        "logo": "https://shdw-drive.genesysgo.net/GVxcsjC2PMpAS1E6aVp78YH7FqpfqxPY1ujeqNduhD1f/bull.png"
+    },
     "4F2yutcbkabE5MJoDvrDLa5U2re5HPABSCVKA7vqrKcH": {
         "name": "REJECT Token",
         "symbol": "REJECT",

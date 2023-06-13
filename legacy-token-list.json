@@ -5922,6 +5922,14 @@
         },
         {
             "chainId": 101,
+            "address": "BULLa6g9e5UCuTXC5Z3Cf7s7CgvJhnJfY71DwipSmF8w",
+            "symbol": "BULL",
+            "name": "BULL",
+            "decimals": 9,
+            "logoURI": "https://shdw-drive.genesysgo.net/GVxcsjC2PMpAS1E6aVp78YH7FqpfqxPY1ujeqNduhD1f/bull.png"
+        },
+        {
+            "chainId": 101,
             "address": "4F2yutcbkabE5MJoDvrDLa5U2re5HPABSCVKA7vqrKcH",
             "symbol": "REJECT",
             "name": "REJECT Token",
