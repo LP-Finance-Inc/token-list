@@ -5919,6 +5919,14 @@
             "name": "SolarMoon",
             "decimals": 5,
             "logoURI": "https://gateway.ipfscdn.io/ipfs/bafkreifwdwgcv6fnh5icz3wkefokatsemsojck4hftsnuf4xcfjcvagsva"
+        },
+        {
+            "chainId": 101,
+            "address": "4F2yutcbkabE5MJoDvrDLa5U2re5HPABSCVKA7vqrKcH",
+            "symbol": "REJECT",
+            "name": "REJECT Token",
+            "decimals": 2,
+            "logoURI": "https://arweave.net/ijxRvhTwJRWTanYUI-j2DwPzOkpqRbB3y-qSuuvQqhQ"
         }
     ]
 }

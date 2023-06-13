@@ -4373,6 +4373,12 @@
         "decimals": 9,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYfBdm1sqa5x3BeqGb2UJ4M732XR6zaXJ8dxppUZhPoe/logo.png"
     },
+    "REJECT": {
+        "address": "4F2yutcbkabE5MJoDvrDLa5U2re5HPABSCVKA7vqrKcH",
+        "name": "REJECT Token",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/ijxRvhTwJRWTanYUI-j2DwPzOkpqRbB3y-qSuuvQqhQ"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -53446,12 +53452,6 @@
         "name": "code",
         "decimals": 9,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CodeJ8UWDuAtD6EEqp9KZPaZYPKvttgkAg9qDkkewx85/logo.png"
-    },
-    "REJECT": {
-        "address": "4F2yutcbkabE5MJoDvrDLa5U2re5HPABSCVKA7vqrKcH",
-        "name": "REJECT Token",
-        "decimals": 2,
-        "logoURI": "https://ri6fdpqu6asrle3koykcepmdyd6m5eu2sfwb34vjfoxl2cvb.arweave.net/ijxRvhTwJRWTanYUI-j2DwPzOkpqRbB3y-qSuuvQqhQ"
     },
     "DAG": {
         "address": "BwDSLozKTfoB4Zimx48coQrCRyKoEcCrzJ6hyoM499XD",
