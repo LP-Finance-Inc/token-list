@@ -5914,6 +5914,14 @@
         },
         {
             "chainId": 101,
+            "address": "4jE4VuqFWZfmSXjTDD5KUoN2qkVu96nPTPj4mhs5PA1W",
+            "symbol": "YOLO",
+            "name": "YoloNolo Coin",
+            "decimals": 5,
+            "logoURI": "https://nftstorage.link/ipfs/bafybeiepttutbes4mzojtmlvx3iqgwvs673czt5g7k7uoficx4vmjunmie/YOLO LOGO.png"
+        },
+        {
+            "chainId": 101,
             "address": "2kMpEJCZL8vEDZe7YPLMCS9Y3WKSAMedXBn7xHPvsWvi",
             "symbol": "MOON",
             "name": "SolarMoon",

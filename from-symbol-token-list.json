@@ -4367,6 +4367,12 @@
         "decimals": 5,
         "logoURI": "https://i.imgur.com/nd9AVZ4.jpeg"
     },
+    "YOLO": {
+        "address": "9JxDDwnCYAmEznRLeMYrjT8GiGBFM7VzRgsqkiLqjhas",
+        "name": "YoloCoin",
+        "decimals": 9,
+        "logoURI": "https://github.com/YoloBoyz446/Yolo-Coin"
+    },
     "MOON": {
         "address": "BYfBdm1sqa5x3BeqGb2UJ4M732XR6zaXJ8dxppUZhPoe",
         "name": "MOON",
@@ -39796,12 +39802,6 @@
         "name": "SK8-T-L",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/TariqMBooker/assets/main/download2.png"
-    },
-    "YOLO": {
-        "address": "9JxDDwnCYAmEznRLeMYrjT8GiGBFM7VzRgsqkiLqjhas",
-        "name": "YoloCoin",
-        "decimals": 9,
-        "logoURI": "https://github.com/YoloBoyz446/Yolo-Coin"
     },
     "MASS": {
         "address": "H3rZJzvMWrLp6u5ED2FCSeYeAxih9tJEQTxae8obisjT",
