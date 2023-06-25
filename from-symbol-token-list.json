@@ -4385,11 +4385,23 @@
         "decimals": 3,
         "logoURI": "https://raw.githubusercontent.com/h3ll0x/bullimage/main/bulltoken.png"
     },
+    "PINK": {
+        "address": "3AMtw8m3pZnrGLmGqQcJnHSQSaegtZGBMpon74EVZVQ3",
+        "name": "Pink",
+        "decimals": 6,
+        "logoURI": "https://arweave.net/_ZVGjmZaB-1kxDkJzamQFo-kxJD0Kl0NhVx8dowP5zE"
+    },
     "REJECT": {
         "address": "4F2yutcbkabE5MJoDvrDLa5U2re5HPABSCVKA7vqrKcH",
         "name": "REJECT Token",
         "decimals": 2,
         "logoURI": "https://arweave.net/ijxRvhTwJRWTanYUI-j2DwPzOkpqRbB3y-qSuuvQqhQ"
+    },
+    "ETX": {
+        "address": "9DZ58i5vAfk3JaFVYezYzhrVht7j8McZsUbuTcDiSbrP",
+        "name": "Ethrix",
+        "decimals": 5,
+        "logoURI": "https://arweave.net/iOND5JLSsq_0dka0SnzTsDCl83hu0_-sOQ2fDbQDuTQ"
     },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",

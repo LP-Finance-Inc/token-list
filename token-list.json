@@ -4439,11 +4439,23 @@
         "decimals": 9,
         "logo": "https://shdw-drive.genesysgo.net/GVxcsjC2PMpAS1E6aVp78YH7FqpfqxPY1ujeqNduhD1f/bull.png"
     },
+    "3AMtw8m3pZnrGLmGqQcJnHSQSaegtZGBMpon74EVZVQ3": {
+        "name": "Pink",
+        "symbol": "PINK",
+        "decimals": 6,
+        "logo": "https://arweave.net/_ZVGjmZaB-1kxDkJzamQFo-kxJD0Kl0NhVx8dowP5zE"
+    },
     "4F2yutcbkabE5MJoDvrDLa5U2re5HPABSCVKA7vqrKcH": {
         "name": "REJECT Token",
         "symbol": "REJECT",
         "decimals": 2,
         "logo": "https://arweave.net/ijxRvhTwJRWTanYUI-j2DwPzOkpqRbB3y-qSuuvQqhQ"
+    },
+    "9DZ58i5vAfk3JaFVYezYzhrVht7j8McZsUbuTcDiSbrP": {
+        "name": "Ethrix",
+        "symbol": "ETX",
+        "decimals": 5,
+        "logo": "https://arweave.net/iOND5JLSsq_0dka0SnzTsDCl83hu0_-sOQ2fDbQDuTQ"
     },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
