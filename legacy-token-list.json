@@ -5959,6 +5959,14 @@
             "name": "Ethrix",
             "decimals": 5,
             "logoURI": "https://arweave.net/iOND5JLSsq_0dka0SnzTsDCl83hu0_-sOQ2fDbQDuTQ"
+        },
+        {
+            "chainId": 101,
+            "address": "HQMBNWptHTTkGY5FDAypqNqQzx9jF6cNJEZyrxoMMAVs",
+            "symbol": "DIG",
+            "name": "DIG Gold",
+            "decimals": 9,
+            "logoURI": "https://shdw-drive.genesysgo.net/6Y4jCS21YEVcEiL5qfifYRk6gQ1ozkWs8LsmSTAJeQR6/SPL_TOKEN.png"
         }
     ]
 }

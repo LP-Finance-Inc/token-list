@@ -4457,6 +4457,12 @@
         "decimals": 5,
         "logo": "https://arweave.net/iOND5JLSsq_0dka0SnzTsDCl83hu0_-sOQ2fDbQDuTQ"
     },
+    "HQMBNWptHTTkGY5FDAypqNqQzx9jF6cNJEZyrxoMMAVs": {
+        "name": "DIG Gold",
+        "symbol": "DIG",
+        "decimals": 9,
+        "logo": "https://shdw-drive.genesysgo.net/6Y4jCS21YEVcEiL5qfifYRk6gQ1ozkWs8LsmSTAJeQR6/SPL_TOKEN.png"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",

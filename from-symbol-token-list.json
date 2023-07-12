@@ -4403,6 +4403,12 @@
         "decimals": 5,
         "logoURI": "https://arweave.net/iOND5JLSsq_0dka0SnzTsDCl83hu0_-sOQ2fDbQDuTQ"
     },
+    "DIG": {
+        "address": "GH2rFP4BQAxjsYEceffJvwrh31aD2EfC5rpWsSuBvZ5v",
+        "name": "Dingar Token",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/infinitydigitalLLC/dingar/main/Dingar%20Logo.png"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -20902,12 +20908,6 @@
         "name": "Caals Coin",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/Pieter-JanCaals/crypto/main/logo.png"
-    },
-    "DIG": {
-        "address": "GH2rFP4BQAxjsYEceffJvwrh31aD2EfC5rpWsSuBvZ5v",
-        "name": "Dingar Token",
-        "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/infinitydigitalLLC/dingar/main/Dingar%20Logo.png"
     },
     "JAKE": {
         "address": "71W5aWT3M21MHzirD94DvcfHtGPLu7K8nhgxKAo5QDNr",
