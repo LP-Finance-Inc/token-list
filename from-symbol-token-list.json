@@ -4403,6 +4403,36 @@
         "decimals": 5,
         "logoURI": "https://arweave.net/iOND5JLSsq_0dka0SnzTsDCl83hu0_-sOQ2fDbQDuTQ"
     },
+    "AMMO": {
+        "address": "EEhosSQvC2yVDRXRGpkonGFF2WNjtUdzb48GV8TSmhfA",
+        "name": "Ammo",
+        "decimals": 9,
+        "logoURI": "https://arweave.net/rjP_BdMqFsXBWoInFYuVNDdqLzW1xo82egb74WRl3Hc"
+    },
+    "FUEL": {
+        "address": "CYbLZDG7TexKi2axdh4gQGLV3FnXvBgfJgLtixhKVytZ",
+        "name": "Biker",
+        "decimals": 2,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CYbLZDG7TexKi2axdh4gQGLV3FnXvBgfJgLtixhKVytZ/logo.png"
+    },
+    "TOOL": {
+        "address": "tooLsNYLiVqzg8o4m3L2Uetbn62mvMWRqkog6PQeYKL",
+        "name": "Toolkit",
+        "decimals": 0,
+        "logoURI": "https://storage.googleapis.com/nft-assets/items/TOOL.png"
+    },
+    "TOKE": {
+        "address": "3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX",
+        "name": "Tokemak (Portal)",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX/logo.png"
+    },
+    " JEFF": {
+        "address": "FkCaFsprX7gySagFoQPHNbe9MRkjrvh21cokJo6C1e2T",
+        "name": "JEFF",
+        "decimals": 6,
+        "logoURI": "https://arweave.net/Pi-s2vzZT8pfYVvFbNjgC0kSrW45PXb1_VPb5HoHuyI"
+    },
     "DIG": {
         "address": "GH2rFP4BQAxjsYEceffJvwrh31aD2EfC5rpWsSuBvZ5v",
         "name": "Dingar Token",
@@ -14351,12 +14381,6 @@
         "decimals": 4,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ovRpcbTPAGAsnfPDRHyu7Jy5qaXfmYpn8xNpaLkU1tX/logo.png"
     },
-    "FUEL": {
-        "address": "CYbLZDG7TexKi2axdh4gQGLV3FnXvBgfJgLtixhKVytZ",
-        "name": "Biker",
-        "decimals": 2,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CYbLZDG7TexKi2axdh4gQGLV3FnXvBgfJgLtixhKVytZ/logo.png"
-    },
     "FRE": {
         "address": "3jcdrN3muKRJxCvuhHJ71ADDqsshFS1hQMj1Z5cGs6Gm",
         "name": "Frevation",
@@ -16492,12 +16516,6 @@
         "name": "Toeken",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cez3uhQiwAMMNsmKGd1YH5Xbf1cNb7pdmNDjZTmr6vpc/logo.png"
-    },
-    "TOKE": {
-        "address": "3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX",
-        "name": "Tokemak (Portal)",
-        "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX/logo.png"
     },
     "BRT": {
         "address": "CK1ASJbXw8kWaL2TBYo9RutTo8rRoZTodVSTqDivqJe9",
@@ -29933,18 +29951,6 @@
         "decimals": 9,
         "logoURI": "https://raw.githubusercontent.com/LukaT11/crypto/main/Hnet.com-image.png"
     },
-    "FOOOOOOD": {
-        "address": "foodQJAztMzX1DKpLaiounNe2BDMds5RNuPC6jsNrDG",
-        "name": "AtlasFOOOOD",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/foodQJAztMzX1DKpLaiounNe2BDMds5RNuPC6jsNrDG/logo.jpg"
-    },
-    "TOOOOOOOL": {
-        "address": "tooLsNYLiVqzg8o4m3L2Uetbn62mvMWRqkog6PQeYKL",
-        "name": "AtlasTOOOOOL",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tooLsNYLiVqzg8o4m3L2Uetbn62mvMWRqkog6PQeYKL/logo.jpg"
-    },
     "USDL": {
         "address": "fJGfG6NFM2SGmvXhsNRaN4Ge3UAhqbbmjAkqbR7hn6B",
         "name": "USD Lagrange",
@@ -32260,12 +32266,6 @@
         "name": "BooBooCoin",
         "decimals": 5,
         "logoURI": "https://raw.githubusercontent.com/Jacob130000x/booboologo/main/logo2.png"
-    },
-    "AMMO": {
-        "address": "EEhosSQvC2yVDRXRGpkonGFF2WNjtUdzb48GV8TSmhfA",
-        "name": "Ammo",
-        "decimals": 9,
-        "logoURI": "https://arweave.net/rjP_BdMqFsXBWoInFYuVNDdqLzW1xo82egb74WRl3Hc"
     },
     "ImSo": {
         "address": "iMSoEKeFPsxXe493ouVREU6Aq7aamY2uADqBHtJFhza",

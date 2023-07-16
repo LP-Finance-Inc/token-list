@@ -4457,6 +4457,42 @@
         "decimals": 5,
         "logo": "https://arweave.net/iOND5JLSsq_0dka0SnzTsDCl83hu0_-sOQ2fDbQDuTQ"
     },
+    "ammoK8AkX2wnebQb35cDAZtTkvsXQbi82cGeTnUvvfK": {
+        "name": "Ammunition",
+        "symbol": "AMMO",
+        "decimals": 0,
+        "logo": "https://storage.googleapis.com/nft-assets/items/AMMO.png"
+    },
+    "foodQJAztMzX1DKpLaiounNe2BDMds5RNuPC6jsNrDG": {
+        "name": "Food",
+        "symbol": "FOOD",
+        "decimals": 0,
+        "logo": "https://storage.googleapis.com/nft-assets/items/FOOD.png"
+    },
+    "fueL3hBZjLLLJHiFH9cqZoozTG3XQZ53diwFPwbzNim": {
+        "name": "Fuel",
+        "symbol": "FUEL",
+        "decimals": 0,
+        "logo": "https://storage.googleapis.com/nft-assets/items/FUEL.png"
+    },
+    "tooLsNYLiVqzg8o4m3L2Uetbn62mvMWRqkog6PQeYKL": {
+        "name": "Toolkit",
+        "symbol": "TOOL",
+        "decimals": 0,
+        "logo": "https://storage.googleapis.com/nft-assets/items/TOOL.png"
+    },
+    "AmgUMQeqW8H74trc8UkKjzZWtxBdpS496wh4GLy2mCpo": {
+        "name": "Mycelium McToken",
+        "symbol": "TOKE",
+        "decimals": 3,
+        "logo": "https://media.discordapp.net/attachments/843933200195387452/1121486585427415090/TOKE.png?width=796&height=796"
+    },
+    "FkCaFsprX7gySagFoQPHNbe9MRkjrvh21cokJo6C1e2T": {
+        "name": "JEFF",
+        "symbol": " JEFF",
+        "decimals": 6,
+        "logo": "https://arweave.net/Pi-s2vzZT8pfYVvFbNjgC0kSrW45PXb1_VPb5HoHuyI"
+    },
     "HQMBNWptHTTkGY5FDAypqNqQzx9jF6cNJEZyrxoMMAVs": {
         "name": "DIG Gold",
         "symbol": "DIG",
@@ -31978,18 +32014,6 @@
         "symbol": "SWIM",
         "decimals": 6,
         "logo": "https://raw.githubusercontent.com/swim-io/token-list/main/assets/mainnet/swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb/logo.svg"
-    },
-    "foodQJAztMzX1DKpLaiounNe2BDMds5RNuPC6jsNrDG": {
-        "name": "AtlasFOOOOD",
-        "symbol": "FOOOOOOD",
-        "decimals": 0,
-        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/foodQJAztMzX1DKpLaiounNe2BDMds5RNuPC6jsNrDG/logo.jpg"
-    },
-    "tooLsNYLiVqzg8o4m3L2Uetbn62mvMWRqkog6PQeYKL": {
-        "name": "AtlasTOOOOOL",
-        "symbol": "TOOOOOOOL",
-        "decimals": 0,
-        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tooLsNYLiVqzg8o4m3L2Uetbn62mvMWRqkog6PQeYKL/logo.jpg"
     },
     "fJGfG6NFM2SGmvXhsNRaN4Ge3UAhqbbmjAkqbR7hn6B": {
         "name": "USD Lagrange",

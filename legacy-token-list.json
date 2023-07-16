@@ -5962,6 +5962,54 @@
         },
         {
             "chainId": 101,
+            "address": "ammoK8AkX2wnebQb35cDAZtTkvsXQbi82cGeTnUvvfK",
+            "symbol": "AMMO",
+            "name": "Ammunition",
+            "decimals": 0,
+            "logoURI": "https://storage.googleapis.com/nft-assets/items/AMMO.png"
+        },
+        {
+            "chainId": 101,
+            "address": "foodQJAztMzX1DKpLaiounNe2BDMds5RNuPC6jsNrDG",
+            "symbol": "FOOD",
+            "name": "Food",
+            "decimals": 0,
+            "logoURI": "https://storage.googleapis.com/nft-assets/items/FOOD.png"
+        },
+        {
+            "chainId": 101,
+            "address": "fueL3hBZjLLLJHiFH9cqZoozTG3XQZ53diwFPwbzNim",
+            "symbol": "FUEL",
+            "name": "Fuel",
+            "decimals": 0,
+            "logoURI": "https://storage.googleapis.com/nft-assets/items/FUEL.png"
+        },
+        {
+            "chainId": 101,
+            "address": "tooLsNYLiVqzg8o4m3L2Uetbn62mvMWRqkog6PQeYKL",
+            "symbol": "TOOL",
+            "name": "Toolkit",
+            "decimals": 0,
+            "logoURI": "https://storage.googleapis.com/nft-assets/items/TOOL.png"
+        },
+        {
+            "chainId": 101,
+            "address": "AmgUMQeqW8H74trc8UkKjzZWtxBdpS496wh4GLy2mCpo",
+            "symbol": "TOKE",
+            "name": "Mycelium McToken",
+            "decimals": 3,
+            "logoURI": "https://media.discordapp.net/attachments/843933200195387452/1121486585427415090/TOKE.png?width=796&height=796"
+        },
+        {
+            "chainId": 101,
+            "address": "FkCaFsprX7gySagFoQPHNbe9MRkjrvh21cokJo6C1e2T",
+            "symbol": " JEFF",
+            "name": "JEFF",
+            "decimals": 6,
+            "logoURI": "https://arweave.net/Pi-s2vzZT8pfYVvFbNjgC0kSrW45PXb1_VPb5HoHuyI"
+        },
+        {
+            "chainId": 101,
             "address": "HQMBNWptHTTkGY5FDAypqNqQzx9jF6cNJEZyrxoMMAVs",
             "symbol": "DIG",
             "name": "DIG Gold",
