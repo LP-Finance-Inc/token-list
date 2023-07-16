@@ -4427,11 +4427,11 @@
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX/logo.png"
     },
-    " JEFF": {
-        "address": "FkCaFsprX7gySagFoQPHNbe9MRkjrvh21cokJo6C1e2T",
-        "name": "JEFF",
-        "decimals": 6,
-        "logoURI": "https://arweave.net/Pi-s2vzZT8pfYVvFbNjgC0kSrW45PXb1_VPb5HoHuyI"
+    "JEFF": {
+        "address": "EP6M2Wt6NNTDHrSS1mQAjvauWFBZGRuaQ3H65nxrv7x5",
+        "name": "Jeff Coin",
+        "decimals": 0,
+        "logoURI": "https://raw.githubusercontent.com/thevaliantviking/crypto/main/logo.png"
     },
     "DIG": {
         "address": "GH2rFP4BQAxjsYEceffJvwrh31aD2EfC5rpWsSuBvZ5v",
@@ -21886,12 +21886,6 @@
         "name": "DillyMacko",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/Dmac500/Crypto-/main/pic.png"
-    },
-    "JEFF": {
-        "address": "EP6M2Wt6NNTDHrSS1mQAjvauWFBZGRuaQ3H65nxrv7x5",
-        "name": "Jeff Coin",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/thevaliantviking/crypto/main/logo.png"
     },
     "B1SH": {
         "address": "7T5yrjKEwi1zot4iu4bqzB5wKArHbZJDU99nWBh5T9hN",
