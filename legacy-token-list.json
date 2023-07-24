@@ -6015,6 +6015,14 @@
             "name": "DIG Gold",
             "decimals": 9,
             "logoURI": "https://shdw-drive.genesysgo.net/6Y4jCS21YEVcEiL5qfifYRk6gQ1ozkWs8LsmSTAJeQR6/SPL_TOKEN.png"
+        },
+        {
+            "chainId": 101,
+            "address": "ASTRALvKjGK2xk2pamjMBU5dav5cEQa6zpKCP6FZ7BAJ",
+            "symbol": "ASTRALIS",
+            "name": "ASTRALIS",
+            "decimals": 6,
+            "logoURI": "https://shdw-drive.genesysgo.net/AcG1tjtJ3vR1XzSCcVArheGLrwmMsphqExa6VodLymGF/astralis_1500x1500_8bit.png"
         }
     ]
 }
