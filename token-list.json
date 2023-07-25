@@ -4505,6 +4505,12 @@
         "decimals": 6,
         "logo": "https://shdw-drive.genesysgo.net/AcG1tjtJ3vR1XzSCcVArheGLrwmMsphqExa6VodLymGF/astralis_1500x1500_8bit.png"
     },
+    "https://solscan.io/token/E7BGDtpNXUTqPNbZxKHiLowgLddiAeuKcByD7tSnfYWD": {
+        "name": "GEM",
+        "symbol": "GEM",
+        "decimals": 5,
+        "logo": "https://bafkreifpm7rbwohp4yys2guyibfzqbctu3bist6zetmyq456om2rqvk544.ipfs.nftstorage.link/"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",

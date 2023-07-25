@@ -4445,6 +4445,12 @@
         "decimals": 6,
         "logoURI": "https://shdw-drive.genesysgo.net/AcG1tjtJ3vR1XzSCcVArheGLrwmMsphqExa6VodLymGF/astralis_1500x1500_8bit.png"
     },
+    "GEM": {
+        "address": "EVR1MYMZ929kwEFt9rNgHYkAsjCY8oKFN7svddZXavTB",
+        "name": "Gem Block",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EVR1MYMZ929kwEFt9rNgHYkAsjCY8oKFN7svddZXavTB/logo.png"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -38884,12 +38890,6 @@
         "name": "GTOK",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/yoavshmariahu/token-list/main/assets/mainnet/6bTcyMbXcRuvBgukkUDNK8xxLrviAGVmDs8vTcs4Rodj/logo.png"
-    },
-    "GEM": {
-        "address": "EVR1MYMZ929kwEFt9rNgHYkAsjCY8oKFN7svddZXavTB",
-        "name": "Gem Block",
-        "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EVR1MYMZ929kwEFt9rNgHYkAsjCY8oKFN7svddZXavTB/logo.png"
     },
     "STOMP": {
         "address": "6cMZs2PRafVnMHkXiDu5SLvomqLHCS11bxwi9KBJTtzZ",
