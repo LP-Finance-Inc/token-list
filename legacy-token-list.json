@@ -6026,7 +6026,7 @@
         },
         {
             "chainId": 101,
-            "address": "https://solscan.io/token/E7BGDtpNXUTqPNbZxKHiLowgLddiAeuKcByD7tSnfYWD",
+            "address": "E7BGDtpNXUTqPNbZxKHiLowgLddiAeuKcByD7tSnfYWD",
             "symbol": "GEM",
             "name": "GEM",
             "decimals": 5,
