@@ -6031,6 +6031,14 @@
             "name": "GEM",
             "decimals": 5,
             "logoURI": "https://bafkreifpm7rbwohp4yys2guyibfzqbctu3bist6zetmyq456om2rqvk544.ipfs.nftstorage.link/"
+        },
+        {
+            "chainId": 101,
+            "address": "F6weWmuc1vwdL4u38Ro9jKXHEMjP9BoNdWMF5o5TvtJf",
+            "symbol": "SOUL",
+            "name": "SOUL",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/ipj9IdEAQAXt0LS6lOt7jQY7W4iazsVFBkN60U7M4iQ"
         }
     ]
 }

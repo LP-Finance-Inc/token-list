@@ -4451,6 +4451,12 @@
         "decimals": 9,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EVR1MYMZ929kwEFt9rNgHYkAsjCY8oKFN7svddZXavTB/logo.png"
     },
+    "SOUL": {
+        "address": "DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd",
+        "name": "SOUL",
+        "decimals": 9,
+        "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd/logo.png?raw=true"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -9124,12 +9130,6 @@
         "name": "Care Coin Token",
         "decimals": 9,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/z9WZXekbCtwoxyfAwEJn1euXybvqLzPVv3NDzJzkq7C/logo.png"
-    },
-    "SOUL": {
-        "address": "DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd",
-        "name": "SOUL",
-        "decimals": 9,
-        "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd/logo.png?raw=true"
     },
     "CHUM": {
         "address": "5U93vfnWJ4NKDhm7k1X7J6D15nJim2odivn9MmfCWwPU",
