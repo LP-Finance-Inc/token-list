@@ -6039,6 +6039,22 @@
             "name": "SOUL",
             "decimals": 9,
             "logoURI": "https://arweave.net/ipj9IdEAQAXt0LS6lOt7jQY7W4iazsVFBkN60U7M4iQ"
+        },
+        {
+            "chainId": 101,
+            "address": "AebrVZPfSH7KPAxPwnuqTZB9QNepdktk7HSSY4SNj7BM",
+            "symbol": "VC",
+            "name": "Venture Coin",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/6HvW8RLbLhBbw09QDRpPd6HX-N3Sk9kF2vvdaZGHExU"
+        },
+        {
+            "chainId": 101,
+            "address": "DFrJxDoLMYt6bNYeNe8Wrjzj2UPUSLZLEMMYBLuTKcTk",
+            "symbol": "NINJA",
+            "name": "NINJA TURTLES",
+            "decimals": 8,
+            "logoURI": "https://arweave.net/2J8mJ6N6GCg7BWTHtcPZMEZsF2iuTYBRI9jdtnHS77o"
         }
     ]
 }

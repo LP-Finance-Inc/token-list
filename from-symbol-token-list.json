@@ -444,10 +444,10 @@
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5p2zjqCd1WJzAVgcEnjhb9zWDU7b9XVhFhx4usiyN7jB/logo.png"
     },
     "NINJA": {
-        "address": "FgX1WD9WzMU3yLwXaFSarPfkgzjLb2DZCqmkx9ExpuvJ",
-        "name": "NINJA",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgX1WD9WzMU3yLwXaFSarPfkgzjLb2DZCqmkx9ExpuvJ/logo.png"
+        "address": "DFrJxDoLMYt6bNYeNe8Wrjzj2UPUSLZLEMMYBLuTKcTk",
+        "name": "NINJA TURTLES",
+        "decimals": 8,
+        "logoURI": "https://arweave.net/2J8mJ6N6GCg7BWTHtcPZMEZsF2iuTYBRI9jdtnHS77o"
     },
     "BOP": {
         "address": "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
@@ -4456,6 +4456,12 @@
         "name": "SOUL",
         "decimals": 9,
         "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd/logo.png?raw=true"
+    },
+    "VC": {
+        "address": "AebrVZPfSH7KPAxPwnuqTZB9QNepdktk7HSSY4SNj7BM",
+        "name": "Venture Coin",
+        "decimals": 9,
+        "logoURI": "https://arweave.net/6HvW8RLbLhBbw09QDRpPd6HX-N3Sk9kF2vvdaZGHExU"
     },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
