@@ -4475,6 +4475,12 @@
         "decimals": 9,
         "logoURI": "https://arweave.net/O5kTUpi6mNl-FWY2zq01MqK0qkwRKy3O5cyaoosyJwM"
     },
+    "sunSBR": {
+        "address": "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2",
+        "name": "sunSBR",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2/logo.svg"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -53422,12 +53428,6 @@
         "name": "Zaptors WL Token",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zoomAe6zBJsgB23puRkVxgPAC8WETUb6AApaBUM7y1M/Raptor-WL.png"
-    },
-    "sunSBR": {
-        "address": "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2",
-        "name": "sunSBR",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2/logo.svg"
     },
     "yiSunSBR": {
         "address": "sunxSBRH867pEGc5D4UFR7D6RQULsmjkXZT3SQ8XqwS",

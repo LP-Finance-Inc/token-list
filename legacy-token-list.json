@@ -6071,6 +6071,14 @@
             "name": "Sdrive Coin",
             "decimals": 9,
             "logoURI": "https://arweave.net/O5kTUpi6mNl-FWY2zq01MqK0qkwRKy3O5cyaoosyJwM"
+        },
+        {
+            "chainId": 101,
+            "address": "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2",
+            "symbol": "sunSBR",
+            "name": "sunSBR",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2/logo.svg"
         }
     ]
 }

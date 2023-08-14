@@ -4541,6 +4541,12 @@
         "decimals": 9,
         "logo": "https://arweave.net/O5kTUpi6mNl-FWY2zq01MqK0qkwRKy3O5cyaoosyJwM"
     },
+    "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2": {
+        "name": "sunSBR",
+        "symbol": "sunSBR",
+        "decimals": 6,
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2/logo.svg"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",
@@ -58876,12 +58882,6 @@
         "symbol": "ZOOM",
         "decimals": 9,
         "logo": "https://imagizer.imageshack.com/img924/6098/0xp90o.jpg"
-    },
-    "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2": {
-        "name": "sunSBR",
-        "symbol": "sunSBR",
-        "decimals": 6,
-        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2/logo.svg"
     },
     "sunxSBRH867pEGc5D4UFR7D6RQULsmjkXZT3SQ8XqwS": {
         "name": "yiSunSBR",
