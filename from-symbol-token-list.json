@@ -4457,11 +4457,23 @@
         "decimals": 9,
         "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd/logo.png?raw=true"
     },
+    "CROWN": {
+        "address": "A7ZGw8BLWEPiRKai4H1AA39fsM2hr2xwmGBcxZ2uUsD9",
+        "name": "Crown",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A7ZGw8BLWEPiRKai4H1AA39fsM2hr2xwmGBcxZ2uUsD9/logo.png"
+    },
     "VC": {
         "address": "AebrVZPfSH7KPAxPwnuqTZB9QNepdktk7HSSY4SNj7BM",
         "name": "Venture Coin",
         "decimals": 9,
         "logoURI": "https://arweave.net/6HvW8RLbLhBbw09QDRpPd6HX-N3Sk9kF2vvdaZGHExU"
+    },
+    "SCOIN": {
+        "address": "5qKDWkBejLtRh1UGFV7e58QEkdn2fRyH5ehVXqUYujNW",
+        "name": "Sdrive Coin",
+        "decimals": 9,
+        "logoURI": "https://arweave.net/O5kTUpi6mNl-FWY2zq01MqK0qkwRKy3O5cyaoosyJwM"
     },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
@@ -18208,12 +18220,6 @@
         "name": "DJKouzaCoin",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/djkouza/djk-coin/main/DJK-Coin.png"
-    },
-    "CROWN": {
-        "address": "A7ZGw8BLWEPiRKai4H1AA39fsM2hr2xwmGBcxZ2uUsD9",
-        "name": "Crown",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A7ZGw8BLWEPiRKai4H1AA39fsM2hr2xwmGBcxZ2uUsD9/logo.png"
     },
     "JOMAR": {
         "address": "BdYkmFb3TNvZwWA8QXGKcsnFcPNFi1p1z9SaWbNgn6r2",

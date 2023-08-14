@@ -6042,6 +6042,14 @@
         },
         {
             "chainId": 101,
+            "address": "GDfnEsia2WLAW5t8yx2X5j2mkfA74i5kwGdDuZHt7XmG",
+            "symbol": "CROWN",
+            "name": "CROWN Token",
+            "decimals": 9,
+            "logoURI": "https://shdw-drive.genesysgo.net/AwJ6W2rRaYCGXimceFuLm5td14fhN1VFEfSYg566RxMD/image.png"
+        },
+        {
+            "chainId": 101,
             "address": "AebrVZPfSH7KPAxPwnuqTZB9QNepdktk7HSSY4SNj7BM",
             "symbol": "VC",
             "name": "Venture Coin",
@@ -6055,6 +6063,14 @@
             "name": "NINJA TURTLES",
             "decimals": 8,
             "logoURI": "https://arweave.net/2J8mJ6N6GCg7BWTHtcPZMEZsF2iuTYBRI9jdtnHS77o"
+        },
+        {
+            "chainId": 101,
+            "address": "5qKDWkBejLtRh1UGFV7e58QEkdn2fRyH5ehVXqUYujNW",
+            "symbol": "SCOIN",
+            "name": "Sdrive Coin",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/O5kTUpi6mNl-FWY2zq01MqK0qkwRKy3O5cyaoosyJwM"
         }
     ]
 }
