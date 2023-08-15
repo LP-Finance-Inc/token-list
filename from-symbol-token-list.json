@@ -4481,6 +4481,12 @@
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2/logo.svg"
     },
+    "tBTC": {
+        "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+        "name": "Threshold Bitcoin",
+        "decimals": 8,
+        "logoURI": "https://bafybeidlxvypapcw2gbs7f2mazbub75kiphz4fgrmljgdjoiswmx32zkri.ipfs.dweb.link/"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",

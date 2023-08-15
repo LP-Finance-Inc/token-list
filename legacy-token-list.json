@@ -6079,6 +6079,14 @@
             "name": "sunSBR",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2/logo.svg"
+        },
+        {
+            "chainId": 101,
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "symbol": "tBTC",
+            "name": "Threshold Bitcoin",
+            "decimals": 8,
+            "logoURI": "https://bafybeidlxvypapcw2gbs7f2mazbub75kiphz4fgrmljgdjoiswmx32zkri.ipfs.dweb.link/"
         }
     ]
 }
