@@ -6087,6 +6087,22 @@
             "name": "Threshold Bitcoin",
             "decimals": 8,
             "logoURI": "https://bafybeidlxvypapcw2gbs7f2mazbub75kiphz4fgrmljgdjoiswmx32zkri.ipfs.dweb.link/"
+        },
+        {
+            "chainId": 101,
+            "address": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA",
+            "symbol": "BLZE",
+            "name": "Blaze",
+            "decimals": 9,
+            "logoURI": "https://solblaze.org/assets/blze.png"
+        },
+        {
+            "chainId": 101,
+            "address": "74DSHnK1qqr4z1pXjLjPAVi8XFngZ635jEVpdkJtnizQ",
+            "symbol": "COCO",
+            "name": "COCO Token",
+            "decimals": 5,
+            "logoURI": "https://shdw-drive.genesysgo.net/EV1ARo89dwRzR1kv7JMr7V97qrcXjffkcwEuNHMJfJmz/COCO_icon.png"
         }
     ]
 }

@@ -4487,6 +4487,18 @@
         "decimals": 8,
         "logoURI": "https://bafybeidlxvypapcw2gbs7f2mazbub75kiphz4fgrmljgdjoiswmx32zkri.ipfs.dweb.link/"
     },
+    "BLZE": {
+        "address": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA",
+        "name": "Blaze",
+        "decimals": 9,
+        "logoURI": "https://solblaze.org/assets/blze.png"
+    },
+    "COCO": {
+        "address": "BTeSJi1ek9Eq7M3DN9j59R7xyexiZ7Vih8ucv7F2uNqs",
+        "name": "CoconutCoin",
+        "decimals": 0,
+        "logoURI": "https://raw.githubusercontent.com/wgpowers98/Crypto/main/Logo.png"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -16906,12 +16918,6 @@
         "name": "WVO Voting Token",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/LouisWhit/socialspreadinggames/main/wvo-token.png"
-    },
-    "COCO": {
-        "address": "BTeSJi1ek9Eq7M3DN9j59R7xyexiZ7Vih8ucv7F2uNqs",
-        "name": "CoconutCoin",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/wgpowers98/Crypto/main/Logo.png"
     },
     "TXC": {
         "address": "DipHAYHTE9ZAPfjQhXt9CAXMSABeRB6eYqk54A9TjkYZ",

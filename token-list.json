@@ -4553,6 +4553,18 @@
         "decimals": 8,
         "logo": "https://bafybeidlxvypapcw2gbs7f2mazbub75kiphz4fgrmljgdjoiswmx32zkri.ipfs.dweb.link/"
     },
+    "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA": {
+        "name": "Blaze",
+        "symbol": "BLZE",
+        "decimals": 9,
+        "logo": "https://solblaze.org/assets/blze.png"
+    },
+    "74DSHnK1qqr4z1pXjLjPAVi8XFngZ635jEVpdkJtnizQ": {
+        "name": "COCO Token",
+        "symbol": "COCO",
+        "decimals": 5,
+        "logo": "https://shdw-drive.genesysgo.net/EV1ARo89dwRzR1kv7JMr7V97qrcXjffkcwEuNHMJfJmz/COCO_icon.png"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",
