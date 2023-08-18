@@ -4469,6 +4469,18 @@
         "decimals": 9,
         "logoURI": "https://arweave.net/6HvW8RLbLhBbw09QDRpPd6HX-N3Sk9kF2vvdaZGHExU"
     },
+    "WOLF": {
+        "address": "G6Y7oujw17anSbn5maHj5qUxBYzvTt5frrBLm6fHfAon",
+        "name": "Wolf house",
+        "decimals": 9,
+        "logoURI": "https://github.com/WolfHousee/Asset/blob/main/Pngtreecartoon_wolf_head_2943333.png"
+    },
+    "MOAR": {
+        "address": "76gDMbyohg6yHy6XJ2Rn9kxC22Q6v6uYpPXxkiwR5ota",
+        "name": "MOAR GAINZ",
+        "decimals": 6,
+        "logoURI": "https://bafkreidv3a37niwg56nytrh2dijfs3vqzebedww6dt5fp2kr46pst7kyui.ipfs.nftstorage.link"
+    },
     "SCOIN": {
         "address": "5qKDWkBejLtRh1UGFV7e58QEkdn2fRyH5ehVXqUYujNW",
         "name": "Sdrive Coin",
@@ -27178,12 +27190,6 @@
         "name": "CurrieCoin",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/LcCompany/CurrieCoin/main/Logo_CurrieCoin.png"
-    },
-    "WOLF": {
-        "address": "G6Y7oujw17anSbn5maHj5qUxBYzvTt5frrBLm6fHfAon",
-        "name": "Wolf house",
-        "decimals": 9,
-        "logoURI": "https://github.com/WolfHousee/Asset/blob/main/Pngtreecartoon_wolf_head_2943333.png"
     },
     "GIC": {
         "address": "9opSeM2GqYG7Zpzvamr2wV1bYN7xjYMGY9ChbhDt1GE3",

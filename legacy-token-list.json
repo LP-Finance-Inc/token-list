@@ -5998,7 +5998,7 @@
             "symbol": "TOKE",
             "name": "Mycelium McToken",
             "decimals": 3,
-            "logoURI": "https://media.discordapp.net/attachments/843933200195387452/1121486585427415090/TOKE.png?width=796&height=796"
+            "logoURI": "https://arweave.net/kVddfi0QG_NfS_cRQQ0vehEt7n25wVk3O4ilHaeidqY"
         },
         {
             "chainId": 101,
@@ -6063,6 +6063,22 @@
             "name": "NINJA TURTLES",
             "decimals": 8,
             "logoURI": "https://arweave.net/2J8mJ6N6GCg7BWTHtcPZMEZsF2iuTYBRI9jdtnHS77o"
+        },
+        {
+            "chainId": 101,
+            "address": "HmKqChBkZEvqFnH8sxja694n77ziYMBWaucZRKfJDRr2",
+            "symbol": "WOLF",
+            "name": "WOLF SOLANA",
+            "decimals": 5,
+            "logoURI": "https://arweave.net/vqdJ1M-3GLpOKuMKZLXNbd-odMLzGrXdgVis8wSEt-M"
+        },
+        {
+            "chainId": 101,
+            "address": "76gDMbyohg6yHy6XJ2Rn9kxC22Q6v6uYpPXxkiwR5ota",
+            "symbol": "MOAR",
+            "name": "MOAR GAINZ",
+            "decimals": 6,
+            "logoURI": "https://bafkreidv3a37niwg56nytrh2dijfs3vqzebedww6dt5fp2kr46pst7kyui.ipfs.nftstorage.link"
         },
         {
             "chainId": 101,
