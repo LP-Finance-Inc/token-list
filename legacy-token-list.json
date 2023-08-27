@@ -6119,6 +6119,14 @@
             "name": "COCO Token",
             "decimals": 5,
             "logoURI": "https://shdw-drive.genesysgo.net/EV1ARo89dwRzR1kv7JMr7V97qrcXjffkcwEuNHMJfJmz/COCO_icon.png"
+        },
+        {
+            "chainId": 101,
+            "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+            "symbol": "EUROe",
+            "name": "EUROe Stablecoin",
+            "decimals": 6,
+            "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png"
         }
     ]
 }

@@ -4511,6 +4511,12 @@
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/wgpowers98/Crypto/main/Logo.png"
     },
+    "EUROe": {
+        "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+        "name": "EUROe Stablecoin",
+        "decimals": 6,
+        "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
