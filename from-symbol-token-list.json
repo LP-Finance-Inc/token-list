@@ -4511,6 +4511,12 @@
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/wgpowers98/Crypto/main/Logo.png"
     },
+    "QB": {
+        "address": "4iGtA8VSTFNFjXdQZiSkMkM2sS4x21tC9y5DAU9WxoQd",
+        "name": "Quantity build",
+        "decimals": 5,
+        "logoURI": "https://arweave.net/Pg5DdUVvKwY6iaqFMsXwomg7H40CFzHyG14E7PJyn9s"
+    },
     "EUROe": {
         "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
         "name": "EUROe Stablecoin",
