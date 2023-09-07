@@ -6135,6 +6135,22 @@
             "name": "EUROe Stablecoin",
             "decimals": 6,
             "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png"
+        },
+        {
+            "chainId": 101,
+            "address": "kiraZUmSnzgfVfhrdvNj6hxHFaPFTTUk8ioY98cbh6G",
+            "symbol": "KIRA",
+            "name": "KIRA",
+            "decimals": 9,
+            "logoURI": "https://www.arweave.net/71SbFojNuoFeQ_n4cfMYKzX87xPvsQvNr59R_ZM7ucQ?ext=png"
+        },
+        {
+            "chainId": 101,
+            "address": "JAzesW3tU2VLDx99pwgkDMca2DTNsEhSWG8sj21B1niz",
+            "symbol": "PHNX",
+            "name": "Phoenix",
+            "decimals": 6,
+            "logoURI": "https://bafybeicmwtzskjhcsnoymhsv5fmlruwoxgounmcweiei2qnxh6ayesupiq.ipfs.nftstorage.link"
         }
     ]
 }

@@ -4523,6 +4523,18 @@
         "decimals": 6,
         "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png"
     },
+    "KIRA": {
+        "address": "DQEkgMHfaAU4GwdLar3Q6Qj7mGqrc8mqddcTM2Cndf3V",
+        "name": "Poochie Pie",
+        "decimals": 0,
+        "logoURI": "https://raw.githubusercontent.com/RobotBuck/token/main/logo.png"
+    },
+    "PHNX": {
+        "address": "PHNX6NaMPbSPNvhDWEvr18dAfjM4Qz2PBYvm5NvgcD9",
+        "name": "PHOENIX BURN ",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PHNX6NaMPbSPNvhDWEvr18dAfjM4Qz2PBYvm5NvgcD9/logo.png"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -30598,12 +30610,6 @@
         "name": "Buck Token",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/RobotBuck/token/main/Buck%20logo.png"
-    },
-    "KIRA": {
-        "address": "DQEkgMHfaAU4GwdLar3Q6Qj7mGqrc8mqddcTM2Cndf3V",
-        "name": "Poochie Pie",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/RobotBuck/token/main/logo.png"
     },
     "EIC": {
         "address": "HGJ5LQYSaDufQyJZz2QeutKMKdsnatwNsy77zeWyZmFX",
@@ -63802,12 +63808,6 @@
         "name": "FFA Whitelist Token",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FFAWLA1yaqYXmbYVofEQYH19mz7WZDb57V2h63BsvoKo/logo.png"
-    },
-    "PHNX": {
-        "address": "PHNX6NaMPbSPNvhDWEvr18dAfjM4Qz2PBYvm5NvgcD9",
-        "name": "PHOENIX BURN ",
-        "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PHNX6NaMPbSPNvhDWEvr18dAfjM4Qz2PBYvm5NvgcD9/logo.png"
     },
     "POH": {
         "address": "DTMnsXFNxkeLAHWYqGrfzjKArqpqzLaTMpdkzkaFUcDA",

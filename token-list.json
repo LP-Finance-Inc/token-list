@@ -4589,6 +4589,18 @@
         "decimals": 6,
         "logo": "https://dev.euroe.com/persistent/token-icon/png/256x256.png"
     },
+    "kiraZUmSnzgfVfhrdvNj6hxHFaPFTTUk8ioY98cbh6G": {
+        "name": "KIRA",
+        "symbol": "KIRA",
+        "decimals": 9,
+        "logo": "https://www.arweave.net/71SbFojNuoFeQ_n4cfMYKzX87xPvsQvNr59R_ZM7ucQ?ext=png"
+    },
+    "JAzesW3tU2VLDx99pwgkDMca2DTNsEhSWG8sj21B1niz": {
+        "name": "Phoenix",
+        "symbol": "PHNX",
+        "decimals": 6,
+        "logo": "https://bafybeicmwtzskjhcsnoymhsv5fmlruwoxgounmcweiei2qnxh6ayesupiq.ipfs.nftstorage.link"
+    },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",
         "symbol": "EV1",
