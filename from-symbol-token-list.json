@@ -4523,6 +4523,12 @@
         "decimals": 6,
         "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png"
     },
+    "LQ": {
+        "address": "2vPkFo4oNs6ZSzVAvMfF9FP9W2aXGX2JacWu4XTqVpsi",
+        "name": "Labs quantity",
+        "decimals": 5,
+        "logoURI": "https://arweave.net/PLD8odcyX6JSxNSycn8iFzHBVHyjAHZQinPdJyR55_w"
+    },
     "KIRA": {
         "address": "DQEkgMHfaAU4GwdLar3Q6Qj7mGqrc8mqddcTM2Cndf3V",
         "name": "Poochie Pie",
@@ -4534,6 +4540,18 @@
         "name": "PHOENIX BURN ",
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PHNX6NaMPbSPNvhDWEvr18dAfjM4Qz2PBYvm5NvgcD9/logo.png"
+    },
+    "PISS": {
+        "address": "ABaeZ4AJ91Qu2DDZH9yvJD6KrPGkFAUZ7uDycTZwCotH",
+        "name": "PissCoin",
+        "decimals": 0,
+        "logoURI": "https://github.com/JarSittel/PissCoin/blob/master/PissCoin.png"
+    },
+    "OPOS": {
+        "address": "3byG6HEKhG5gUZ5PZU9zKkFaEHYPveGEtvs68LYR8R5N",
+        "name": "OPOS Coin",
+        "decimals": 4,
+        "logoURI": "https://arweave.net/fivrynPZdJv5ajd4d1TXW1yHArDA-RvkYYfDoh-_4EU"
     },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
@@ -48994,12 +49012,6 @@
         "name": "NxtTek",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/phaktor/crypto/main/logo.png"
-    },
-    "PISS": {
-        "address": "ABaeZ4AJ91Qu2DDZH9yvJD6KrPGkFAUZ7uDycTZwCotH",
-        "name": "PissCoin",
-        "decimals": 0,
-        "logoURI": "https://github.com/JarSittel/PissCoin/blob/master/PissCoin.png"
     },
     "sFANT": {
         "address": "stmnJnBt9kNdjYWrcQSj6ZdLeLvzvrXd8hSKCHHhJ5U",

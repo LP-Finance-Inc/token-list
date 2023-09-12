@@ -4589,6 +4589,12 @@
         "decimals": 6,
         "logo": "https://dev.euroe.com/persistent/token-icon/png/256x256.png"
     },
+    "2vPkFo4oNs6ZSzVAvMfF9FP9W2aXGX2JacWu4XTqVpsi": {
+        "name": "Labs quantity",
+        "symbol": "LQ",
+        "decimals": 5,
+        "logo": "https://arweave.net/PLD8odcyX6JSxNSycn8iFzHBVHyjAHZQinPdJyR55_w"
+    },
     "kiraZUmSnzgfVfhrdvNj6hxHFaPFTTUk8ioY98cbh6G": {
         "name": "KIRA",
         "symbol": "KIRA",
@@ -4600,6 +4606,18 @@
         "symbol": "PHNX",
         "decimals": 6,
         "logo": "https://bafybeicmwtzskjhcsnoymhsv5fmlruwoxgounmcweiei2qnxh6ayesupiq.ipfs.nftstorage.link"
+    },
+    "7qULVSb7XdoKBDDa7WnuUvoTx5ye4Vrj94iPcwibyQ1F": {
+        "name": "Frog Piss",
+        "symbol": "PISS",
+        "decimals": 6,
+        "logo": "https://shdw-drive.genesysgo.net/BLFjCRyZkaF9GGwiorXPRwYJVpxD7VrrKNH7XccWUCWF/frogpiss.png"
+    },
+    "3byG6HEKhG5gUZ5PZU9zKkFaEHYPveGEtvs68LYR8R5N": {
+        "name": "OPOS Coin",
+        "symbol": "OPOS",
+        "decimals": 4,
+        "logo": "https://arweave.net/fivrynPZdJv5ajd4d1TXW1yHArDA-RvkYYfDoh-_4EU"
     },
     "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91": {
         "name": "EveryOne Coin",

@@ -6138,6 +6138,14 @@
         },
         {
             "chainId": 101,
+            "address": "2vPkFo4oNs6ZSzVAvMfF9FP9W2aXGX2JacWu4XTqVpsi",
+            "symbol": "LQ",
+            "name": "Labs quantity",
+            "decimals": 5,
+            "logoURI": "https://arweave.net/PLD8odcyX6JSxNSycn8iFzHBVHyjAHZQinPdJyR55_w"
+        },
+        {
+            "chainId": 101,
             "address": "kiraZUmSnzgfVfhrdvNj6hxHFaPFTTUk8ioY98cbh6G",
             "symbol": "KIRA",
             "name": "KIRA",
@@ -6151,6 +6159,22 @@
             "name": "Phoenix",
             "decimals": 6,
             "logoURI": "https://bafybeicmwtzskjhcsnoymhsv5fmlruwoxgounmcweiei2qnxh6ayesupiq.ipfs.nftstorage.link"
+        },
+        {
+            "chainId": 101,
+            "address": "7qULVSb7XdoKBDDa7WnuUvoTx5ye4Vrj94iPcwibyQ1F",
+            "symbol": "PISS",
+            "name": "Frog Piss",
+            "decimals": 6,
+            "logoURI": "https://shdw-drive.genesysgo.net/BLFjCRyZkaF9GGwiorXPRwYJVpxD7VrrKNH7XccWUCWF/frogpiss.png"
+        },
+        {
+            "chainId": 101,
+            "address": "3byG6HEKhG5gUZ5PZU9zKkFaEHYPveGEtvs68LYR8R5N",
+            "symbol": "OPOS",
+            "name": "OPOS Coin",
+            "decimals": 4,
+            "logoURI": "https://arweave.net/fivrynPZdJv5ajd4d1TXW1yHArDA-RvkYYfDoh-_4EU"
         }
     ]
 }
