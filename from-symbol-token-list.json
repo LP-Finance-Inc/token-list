@@ -4553,6 +4553,18 @@
         "decimals": 4,
         "logoURI": "https://arweave.net/fivrynPZdJv5ajd4d1TXW1yHArDA-RvkYYfDoh-_4EU"
     },
+    "DORKL": {
+        "address": "BgqjQdnnjRtcELAgkYpfKAxWRqSReWercDdRTH6uLoer",
+        "name": "\u15eaO\u1587K \u14aaO\u1587\u15ea",
+        "decimals": 6,
+        "logoURI": "https://bafkreicufnhs5evfdochjopzpjaeuxoh5s6uhyl54dlfeb2cm4bqjfi4dq.ipfs.nftstorage.link"
+    },
+    "ALL": {
+        "address": "CBrv9C5isNXcYm5YxouHSw1VKiBZtmFmsgCPscoKhY8i",
+        "name": "Allowance Token",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/jamroszk/crypto/main/All_Logo.png"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -24820,12 +24832,6 @@
         "name": "Cloudie",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/Master-Teddy/crypto.logo/main/crypto.logo.png"
-    },
-    "ALL": {
-        "address": "CBrv9C5isNXcYm5YxouHSw1VKiBZtmFmsgCPscoKhY8i",
-        "name": "Allowance Token",
-        "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/jamroszk/crypto/main/All_Logo.png"
     },
     "SHIPO": {
         "address": "FNwzqPdAF4rXS8tny3RrdvQemUsZkShouceBK2MnFyPT",
