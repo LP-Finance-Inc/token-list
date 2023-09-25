@@ -6207,6 +6207,14 @@
             "name": "BIRDIES",
             "decimals": 5,
             "logoURI": "https://raw.githubusercontent.com/ArashiSol/Birdies/main/photo1695208363.jpeg"
+        },
+        {
+            "chainId": 101,
+            "address": "Dwri1iuy5pDFf2u2GwwsH2MxjR6dATyDv9En9Jk8Fkof",
+            "symbol": "2080",
+            "name": "2080",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/resources-pub/token-info/main/fidelion_logo.png"
         }
     ]
 }

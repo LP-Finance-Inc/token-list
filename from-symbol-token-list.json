@@ -4577,6 +4577,12 @@
         "decimals": 5,
         "logoURI": "https://raw.githubusercontent.com/ArashiSol/Birdies/main/photo1695208363.jpeg"
     },
+    "2080": {
+        "address": "Dwri1iuy5pDFf2u2GwwsH2MxjR6dATyDv9En9Jk8Fkof",
+        "name": "2080",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/resources-pub/token-info/main/fidelion_logo.png"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
