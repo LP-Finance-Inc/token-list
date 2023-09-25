@@ -6178,6 +6178,14 @@
         },
         {
             "chainId": 101,
+            "address": "51pPuhLArFyrUTiLwFtoySBnELppjNdG13b86zPVBY9Z",
+            "symbol": "CKKA",
+            "name": "CIKKA",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/baba7ji/crypto/main/cikka.png.png"
+        },
+        {
+            "chainId": 101,
             "address": "BgqjQdnnjRtcELAgkYpfKAxWRqSReWercDdRTH6uLoer",
             "symbol": "DORKL",
             "name": "\u15eaO\u1587K \u14aaO\u1587\u15ea",
@@ -6191,6 +6199,14 @@
             "name": "AllDomains",
             "decimals": 6,
             "logoURI": "https://arweave.net/FY7yQGrLCAvKAup_SYEsHDoTRZXsttuYyQjvHTnOrYk"
+        },
+        {
+            "chainId": 101,
+            "address": "9m9fmqJ2s7iUXZhFMsrdes1UcAtu3JyZXK3ZXfW3KPEw",
+            "symbol": "BIRDS",
+            "name": "BIRDIES",
+            "decimals": 5,
+            "logoURI": "https://raw.githubusercontent.com/ArashiSol/Birdies/main/photo1695208363.jpeg"
         }
     ]
 }

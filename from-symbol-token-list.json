@@ -4553,6 +4553,12 @@
         "decimals": 4,
         "logoURI": "https://arweave.net/fivrynPZdJv5ajd4d1TXW1yHArDA-RvkYYfDoh-_4EU"
     },
+    "CKKA": {
+        "address": "51pPuhLArFyrUTiLwFtoySBnELppjNdG13b86zPVBY9Z",
+        "name": "CIKKA",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/baba7ji/crypto/main/cikka.png.png"
+    },
     "DORKL": {
         "address": "BgqjQdnnjRtcELAgkYpfKAxWRqSReWercDdRTH6uLoer",
         "name": "\u15eaO\u1587K \u14aaO\u1587\u15ea",
@@ -4564,6 +4570,12 @@
         "name": "Allowance Token",
         "decimals": 9,
         "logoURI": "https://raw.githubusercontent.com/jamroszk/crypto/main/All_Logo.png"
+    },
+    "BIRDS": {
+        "address": "9m9fmqJ2s7iUXZhFMsrdes1UcAtu3JyZXK3ZXfW3KPEw",
+        "name": "BIRDIES",
+        "decimals": 5,
+        "logoURI": "https://raw.githubusercontent.com/ArashiSol/Birdies/main/photo1695208363.jpeg"
     },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
