@@ -6215,6 +6215,14 @@
             "name": "2080",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/resources-pub/token-info/main/fidelion_logo.png"
+        },
+        {
+            "chainId": 101,
+            "address": "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp",
+            "symbol": "LST",
+            "name": "Liquid Staking Token",
+            "decimals": 9,
+            "logoURI": "https://storage.googleapis.com/static-marginfi/lst.png"
         }
     ]
 }

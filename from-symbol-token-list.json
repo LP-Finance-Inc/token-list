@@ -4583,6 +4583,12 @@
         "decimals": 9,
         "logoURI": "https://raw.githubusercontent.com/resources-pub/token-info/main/fidelion_logo.png"
     },
+    "LST": {
+        "address": "3dsqqQcFmW4YUR6C7MQmy25czHNebQt91PWhk2NkDDg3",
+        "name": "LUSTKOIN",
+        "decimals": 0,
+        "logoURI": "https://raw.githubusercontent.com/itnowpb/lust/main/logo.png"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -18994,12 +19000,6 @@
         "name": "Aur Coin",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/AUR-COIN/crypto/main/logo.png"
-    },
-    "LST": {
-        "address": "3dsqqQcFmW4YUR6C7MQmy25czHNebQt91PWhk2NkDDg3",
-        "name": "LUSTKOIN",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/itnowpb/lust/main/logo.png"
     },
     "VENUS": {
         "address": "GfmUGCL2kY21tqpDoeVYnjP4c57wyQZzamyHjbqU4TKd",
