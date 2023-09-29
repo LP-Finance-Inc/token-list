@@ -4548,10 +4548,10 @@
         "logoURI": "https://github.com/JarSittel/PissCoin/blob/master/PissCoin.png"
     },
     "OPOS": {
-        "address": "3byG6HEKhG5gUZ5PZU9zKkFaEHYPveGEtvs68LYR8R5N",
-        "name": "OPOS Coin",
-        "decimals": 4,
-        "logoURI": "https://arweave.net/fivrynPZdJv5ajd4d1TXW1yHArDA-RvkYYfDoh-_4EU"
+        "address": "BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52",
+        "name": "Only Possible On Solana",
+        "decimals": 9,
+        "logoURI": "https://arweave.net/k8uU2yLoYwL4zTBZ-TO-7bs6hgtLNaHhzP4FLUMuaS0"
     },
     "CKKA": {
         "address": "51pPuhLArFyrUTiLwFtoySBnELppjNdG13b86zPVBY9Z",

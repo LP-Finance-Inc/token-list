@@ -6223,6 +6223,14 @@
             "name": "Liquid Staking Token",
             "decimals": 9,
             "logoURI": "https://storage.googleapis.com/static-marginfi/lst.png"
+        },
+        {
+            "chainId": 101,
+            "address": "BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52",
+            "symbol": "OPOS",
+            "name": "Only Possible On Solana",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/k8uU2yLoYwL4zTBZ-TO-7bs6hgtLNaHhzP4FLUMuaS0"
         }
     ]
 }
