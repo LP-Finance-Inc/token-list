@@ -4589,6 +4589,12 @@
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/itnowpb/lust/main/logo.png"
     },
+    "JIMMY": {
+        "address": "3DWn26BxigsPjUAQCkfQUjFCNQVQratAqt8Yy8MNFXeU",
+        "name": "Jimmy",
+        "decimals": 0,
+        "logoURI": "https://raw.githubusercontent.com/soccrates/crypto/main/jimmytoken.jpg"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
@@ -21262,12 +21268,6 @@
         "name": "ZET Coin",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/zaramihnea/crypto/main/logo.png"
-    },
-    "JIMMY": {
-        "address": "3DWn26BxigsPjUAQCkfQUjFCNQVQratAqt8Yy8MNFXeU",
-        "name": "Jimmy",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/soccrates/crypto/main/jimmytoken.jpg"
     },
     "BAVS": {
         "address": "8TytJGVEyYGPCmPbtMwaGNr57gn9qz7YSH9bLf6aBsn9",

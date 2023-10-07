@@ -6231,6 +6231,14 @@
             "name": "Only Possible On Solana",
             "decimals": 9,
             "logoURI": "https://arweave.net/k8uU2yLoYwL4zTBZ-TO-7bs6hgtLNaHhzP4FLUMuaS0"
+        },
+        {
+            "chainId": 101,
+            "address": "94XduSfSnyas7jAEFSJSXiCi1xQ4mENWcii1aCvjVuqu",
+            "symbol": "JIMMY",
+            "name": "JIMMY",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/5NmSALkMrjr5p33OrjuQlA5a3LRPLv0Ta07SnEWt1fk"
         }
     ]
 }
