@@ -4589,11 +4589,23 @@
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/itnowpb/lust/main/logo.png"
     },
+    "Solto": {
+        "address": "BXcNdJga3kkmpvrVFy8LXWxGMfr6XZAUK4Mx1ANyV4Lk",
+        "name": "Soltopia",
+        "decimals": 4,
+        "logoURI": "https://arweave.net/HF8wOJXEicknC45SDzaEh0tqUNXx0QaQBQjVg4qFlzM"
+    },
     "JIMMY": {
         "address": "3DWn26BxigsPjUAQCkfQUjFCNQVQratAqt8Yy8MNFXeU",
         "name": "Jimmy",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/soccrates/crypto/main/jimmytoken.jpg"
+    },
+    "UPT": {
+        "address": "9CPWiCFL11DWr92dsTrzLf5cKz6zKhLz3xzRcYCQ3Nd2",
+        "name": "UPTOBER",
+        "decimals": 6,
+        "logoURI": "https://bafkreihgs65erm5f45s5vzl7y6wdl3nuqqqpcvlith3sotor5jcctft2wu.ipfs.nftstorage.link"
     },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",

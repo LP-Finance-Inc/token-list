@@ -6234,11 +6234,27 @@
         },
         {
             "chainId": 101,
+            "address": "BXcNdJga3kkmpvrVFy8LXWxGMfr6XZAUK4Mx1ANyV4Lk",
+            "symbol": "Solto",
+            "name": "Soltopia",
+            "decimals": 4,
+            "logoURI": "https://arweave.net/HF8wOJXEicknC45SDzaEh0tqUNXx0QaQBQjVg4qFlzM"
+        },
+        {
+            "chainId": 101,
             "address": "94XduSfSnyas7jAEFSJSXiCi1xQ4mENWcii1aCvjVuqu",
             "symbol": "JIMMY",
             "name": "JIMMY",
             "decimals": 9,
             "logoURI": "https://arweave.net/5NmSALkMrjr5p33OrjuQlA5a3LRPLv0Ta07SnEWt1fk"
+        },
+        {
+            "chainId": 101,
+            "address": "9CPWiCFL11DWr92dsTrzLf5cKz6zKhLz3xzRcYCQ3Nd2",
+            "symbol": "UPT",
+            "name": "UPTOBER",
+            "decimals": 6,
+            "logoURI": "https://bafkreihgs65erm5f45s5vzl7y6wdl3nuqqqpcvlith3sotor5jcctft2wu.ipfs.nftstorage.link"
         }
     ]
 }
