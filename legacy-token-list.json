@@ -6234,6 +6234,22 @@
         },
         {
             "chainId": 101,
+            "address": "Ee1pKgTQmP5xjYQs76HmRM2c2YkqEdc9tk5mQbiGFigT",
+            "symbol": "MBC",
+            "name": "Mad Bears Club",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/7jp6IaYj-kCiCDuHzk-zJLf2wRctrhIa1m_PO0rQuig"
+        },
+        {
+            "chainId": 101,
+            "address": "bootyAfCh1eSQeKhFaDjN9Pu6zwPmAoQPoJWVuPasjJ",
+            "symbol": "BOOTY",
+            "name": "BOOTY",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/N-9sTPFfUhoFzJ6prtY2hItNkVaHVAktRDiuQrHwWhQ"
+        },
+        {
+            "chainId": 101,
             "address": "BXcNdJga3kkmpvrVFy8LXWxGMfr6XZAUK4Mx1ANyV4Lk",
             "symbol": "Solto",
             "name": "Soltopia",
@@ -6247,6 +6263,14 @@
             "name": "JIMMY",
             "decimals": 9,
             "logoURI": "https://arweave.net/5NmSALkMrjr5p33OrjuQlA5a3LRPLv0Ta07SnEWt1fk"
+        },
+        {
+            "chainId": 101,
+            "address": "GTgMjfKTBF9jVBogMnaiAVnHmvnF2wyGAv3zvtk5CBHq",
+            "symbol": "CLUB",
+            "name": "CLUB",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/XSWZOeipKasgKjDKm54O2R0S3Rrld1B6gQV_rtIjfF4"
         },
         {
             "chainId": 101,

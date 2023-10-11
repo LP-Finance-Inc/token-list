@@ -4589,6 +4589,18 @@
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/itnowpb/lust/main/logo.png"
     },
+    "MBC": {
+        "address": "AShCRr7fqsMf7ieM5AkJqNY566HsYmtvpvK8oPUL4Bh8",
+        "name": "MoneyBoy Coin",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AShCRr7fqsMf7ieM5AkJqNY566HsYmtvpvK8oPUL4Bh8/logo.png"
+    },
+    "BOOTY": {
+        "address": "7mT2XbK3iqQrhzDFoy87r61ewkrDWYLHrm94iMiTf8xJ",
+        "name": "Booty Farm",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7mT2XbK3iqQrhzDFoy87r61ewkrDWYLHrm94iMiTf8xJ/booty-logo.png"
+    },
     "Solto": {
         "address": "BXcNdJga3kkmpvrVFy8LXWxGMfr6XZAUK4Mx1ANyV4Lk",
         "name": "Soltopia",
@@ -4600,6 +4612,12 @@
         "name": "Jimmy",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/soccrates/crypto/main/jimmytoken.jpg"
+    },
+    "CLUB": {
+        "address": "CLUbn9QKBwbX3rfFTuvQG3HgERzu7R9naLfJas3WuPgx",
+        "name": "THECLUB",
+        "decimals": 9,
+        "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/CLUbn9QKBwbX3rfFTuvQG3HgERzu7R9naLfJas3WuPgx/logo.png?raw=true"
     },
     "UPT": {
         "address": "9CPWiCFL11DWr92dsTrzLf5cKz6zKhLz3xzRcYCQ3Nd2",
@@ -15287,12 +15305,6 @@
         "decimals": 3,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7PGnndsCpy477mry5cumk9pBGe5USP1Tw2DpipHpAWBA/logo.png"
     },
-    "BOOTY": {
-        "address": "7mT2XbK3iqQrhzDFoy87r61ewkrDWYLHrm94iMiTf8xJ",
-        "name": "Booty Farm",
-        "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7mT2XbK3iqQrhzDFoy87r61ewkrDWYLHrm94iMiTf8xJ/booty-logo.png"
-    },
     "BTT": {
         "address": "nzN5LqVJJmbuFMiWETDvVh519MwUp7qdb7QV9r5xA8S",
         "name": "Beleven Test Token",
@@ -16306,12 +16318,6 @@
         "name": "Raydium Permissionless LP Token (BASIS-USDC)",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5bpYrWuERdLHJkgMoA3nrL98e3T3RV3sudgUPCWocirA/logo.png"
-    },
-    "CLUB": {
-        "address": "CLUbn9QKBwbX3rfFTuvQG3HgERzu7R9naLfJas3WuPgx",
-        "name": "THECLUB",
-        "decimals": 9,
-        "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/CLUbn9QKBwbX3rfFTuvQG3HgERzu7R9naLfJas3WuPgx/logo.png?raw=true"
     },
     "MAME": {
         "address": "3Z3iGPMSWWizHvyLsq1FcvoPempWK22UK6KoES6dHbSs",
@@ -27160,12 +27166,6 @@
         "name": "dooboolab coin",
         "decimals": 0,
         "logoURI": "https://user-images.githubusercontent.com/27461460/147493821-1d95ae21-319a-410d-8a2c-4a69892080ec.png"
-    },
-    "MBC": {
-        "address": "AShCRr7fqsMf7ieM5AkJqNY566HsYmtvpvK8oPUL4Bh8",
-        "name": "MoneyBoy Coin",
-        "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AShCRr7fqsMf7ieM5AkJqNY566HsYmtvpvK8oPUL4Bh8/logo.png"
     },
     "AMBER": {
         "address": "H7r1ZdGStLSNbfTur4b5JadQnBxs3Uxg2SQsMTUus3u7",

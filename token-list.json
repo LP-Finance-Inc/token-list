@@ -4661,6 +4661,18 @@
         "decimals": 9,
         "logo": "https://arweave.net/k8uU2yLoYwL4zTBZ-TO-7bs6hgtLNaHhzP4FLUMuaS0"
     },
+    "Ee1pKgTQmP5xjYQs76HmRM2c2YkqEdc9tk5mQbiGFigT": {
+        "name": "Mad Bears Club",
+        "symbol": "MBC",
+        "decimals": 9,
+        "logo": "https://arweave.net/7jp6IaYj-kCiCDuHzk-zJLf2wRctrhIa1m_PO0rQuig"
+    },
+    "bootyAfCh1eSQeKhFaDjN9Pu6zwPmAoQPoJWVuPasjJ": {
+        "name": "BOOTY",
+        "symbol": "BOOTY",
+        "decimals": 9,
+        "logo": "https://arweave.net/N-9sTPFfUhoFzJ6prtY2hItNkVaHVAktRDiuQrHwWhQ"
+    },
     "BXcNdJga3kkmpvrVFy8LXWxGMfr6XZAUK4Mx1ANyV4Lk": {
         "name": "Soltopia",
         "symbol": "Solto",
@@ -4672,6 +4684,12 @@
         "symbol": "JIMMY",
         "decimals": 9,
         "logo": "https://arweave.net/5NmSALkMrjr5p33OrjuQlA5a3LRPLv0Ta07SnEWt1fk"
+    },
+    "GTgMjfKTBF9jVBogMnaiAVnHmvnF2wyGAv3zvtk5CBHq": {
+        "name": "CLUB",
+        "symbol": "CLUB",
+        "decimals": 9,
+        "logo": "https://arweave.net/XSWZOeipKasgKjDKm54O2R0S3Rrld1B6gQV_rtIjfF4"
     },
     "9CPWiCFL11DWr92dsTrzLf5cKz6zKhLz3xzRcYCQ3Nd2": {
         "name": "UPTOBER",
