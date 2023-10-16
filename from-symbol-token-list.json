@@ -4625,6 +4625,18 @@
         "decimals": 6,
         "logoURI": "https://bafkreihgs65erm5f45s5vzl7y6wdl3nuqqqpcvlith3sotor5jcctft2wu.ipfs.nftstorage.link"
     },
+    "$WEN": {
+        "address": "3J5QaP1zJN9yXE7jr5XJa3Lq2TyGHSHu2wssK7N1Aw4p",
+        "name": "WEN",
+        "decimals": 6,
+        "logoURI": "https://arweave.net/sfrKTJisIlWsNJfw6GWnsitsbUbN6WIjoVJZWMe2Mdk"
+    },
+    "WTRBR": {
+        "address": "Aymdf5Fp2URJNcsHpEF2NqEqFHiqvvhrDvYQtyZFw7zn",
+        "name": "Water Bears",
+        "decimals": 4,
+        "logoURI": "https://arweave.net/GZNQl83S1kK5kvak1yvMrI8muuPVm80fdliPcgwsWfw"
+    },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
         "name": "MELLOW MEN WL TOKEN OFFICIAL",
