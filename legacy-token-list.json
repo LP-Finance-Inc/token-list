@@ -6282,6 +6282,30 @@
         },
         {
             "chainId": 101,
+            "address": "MELLd8PyFoeNW3D5VaUe7L96eZeihtrzgLWrbKz5DR2",
+            "symbol": "MELL",
+            "name": "Mellivora",
+            "decimals": 6,
+            "logoURI": "https://arweave.net/YIrpNAQuLbOMvI8hSRCzJakzm5qiT_wv1Av5mpcYxrY"
+        },
+        {
+            "chainId": 101,
+            "address": "FUCKuTfQVT9yCe3jPXdejBPhcPJpnceQy17uvcT9cLx8",
+            "symbol": "white",
+            "name": "White Solana",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/loufly1/Birdies/main/photo1697130653.jpeg"
+        },
+        {
+            "chainId": 101,
+            "address": "7VUUicqKYFVmewg1U4w4e9K4FoEYdTcYyxYCPhRNf5Qy",
+            "symbol": "green",
+            "name": "solana green",
+            "decimals": 9,
+            "logoURI": "https://arweave.net/W68r4cNKbj0t_GRf1km_e9nzm4BLfspy0X-yX8mh4fQ"
+        },
+        {
+            "chainId": 101,
             "address": "3J5QaP1zJN9yXE7jr5XJa3Lq2TyGHSHu2wssK7N1Aw4p",
             "symbol": "$WEN",
             "name": "WEN",
@@ -6295,6 +6319,14 @@
             "name": "Water Bears",
             "decimals": 4,
             "logoURI": "https://arweave.net/GZNQl83S1kK5kvak1yvMrI8muuPVm80fdliPcgwsWfw"
+        },
+        {
+            "chainId": 101,
+            "address": "D8TFo4FsDF9CnejkezEZtwdhdmwaiNgLRDAQUTwWQuBU",
+            "symbol": "$TEST",
+            "name": "TEST",
+            "decimals": 6,
+            "logoURI": "https://bafkreia7lr4higfpv6xc5owc3m2vjgcq2zzb7nqoaeut2lqcfy4pplpy5u.ipfs.nftstorage.link"
         }
     ]
 }

@@ -4625,6 +4625,24 @@
         "decimals": 6,
         "logoURI": "https://bafkreihgs65erm5f45s5vzl7y6wdl3nuqqqpcvlith3sotor5jcctft2wu.ipfs.nftstorage.link"
     },
+    "MELL": {
+        "address": "gvK3ehKkvHwXGqiBVB6fMmYx333DMUfzp2tp6cW82Pf",
+        "name": "MellCoin",
+        "decimals": 0,
+        "logoURI": "https://raw.githubusercontent.com/Mxlanie/crypto/main/logo.png"
+    },
+    "white": {
+        "address": "FUCKuTfQVT9yCe3jPXdejBPhcPJpnceQy17uvcT9cLx8",
+        "name": "White Solana",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/loufly1/Birdies/main/photo1697130653.jpeg"
+    },
+    "green": {
+        "address": "7VUUicqKYFVmewg1U4w4e9K4FoEYdTcYyxYCPhRNf5Qy",
+        "name": "solana green",
+        "decimals": 9,
+        "logoURI": "https://arweave.net/W68r4cNKbj0t_GRf1km_e9nzm4BLfspy0X-yX8mh4fQ"
+    },
     "$WEN": {
         "address": "3J5QaP1zJN9yXE7jr5XJa3Lq2TyGHSHu2wssK7N1Aw4p",
         "name": "WEN",
@@ -4636,6 +4654,12 @@
         "name": "Water Bears",
         "decimals": 4,
         "logoURI": "https://arweave.net/GZNQl83S1kK5kvak1yvMrI8muuPVm80fdliPcgwsWfw"
+    },
+    "$TEST": {
+        "address": "D8TFo4FsDF9CnejkezEZtwdhdmwaiNgLRDAQUTwWQuBU",
+        "name": "TEST",
+        "decimals": 6,
+        "logoURI": "https://bafkreia7lr4higfpv6xc5owc3m2vjgcq2zzb7nqoaeut2lqcfy4pplpy5u.ipfs.nftstorage.link"
     },
     "EV1": {
         "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
@@ -17668,12 +17692,6 @@
         "name": "Da X Nilsson Coin",
         "decimals": 0,
         "logoURI": "https://raw.githubusercontent.com/danielxnilsson/cryptodxn/main/krypto_DXN_trans.png"
-    },
-    "MELL": {
-        "address": "gvK3ehKkvHwXGqiBVB6fMmYx333DMUfzp2tp6cW82Pf",
-        "name": "MellCoin",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/Mxlanie/crypto/main/logo.png"
     },
     "BLKH": {
         "address": "CDAQD65KwCEqLaZqzP4esJ9BCWFaazfpE6jvKL5ypLY2",
