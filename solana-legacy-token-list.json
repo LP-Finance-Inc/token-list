@@ -105687,6 +105687,14 @@
             "name": "Jeffrium",
             "decimals": 0,
             "logoURI": "https://raw.githubusercontent.com/jeffreydrew/pandacoin/main/pandafinal.png"
+        },
+        {
+            "chainId": 101,
+            "address": "GEgKyFRw9kdzstHRK7hk6dJ69PtUbfD3QS9ngjepMJyg",
+            "symbol": "XSCI",
+            "name": "Science Coin",
+            "decimals": 5,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeiavntnitoia7rsyshazpvvggjw5zg6sp2ld24z3aonunyf46xx7am?filetype=png"
         }
     ]
 }

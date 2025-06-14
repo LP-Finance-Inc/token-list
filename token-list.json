@@ -79252,5 +79252,11 @@
         "symbol": "JFRM",
         "decimals": 0,
         "logo": "https://raw.githubusercontent.com/jeffreydrew/pandacoin/main/pandafinal.png"
-    }
+    },
+    "GEgKyFRw9kdzstHRK7hk6dJ69PtUbfD3QS9ngjepMJyg": {
+        "name": "Science Coin",
+        "symbol": "XSCI",
+        "decimals": 5,
+        "logo": "https://gateway.pinata.cloud/ipfs/bafybeiavntnitoia7rsyshazpvvggjw5zg6sp2ld24z3aonunyf46xx7am?filetype=png"
+    }    
 }
